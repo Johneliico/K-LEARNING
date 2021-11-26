@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/sum"
+    tools:context=".addition">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="ADDITION"
+            android:textSize="40sp"
+            android:gravity="center"
+            android:fontFamily="@font/slackey"
+            android:textColor="#ff1aff"
+            android:layout_marginTop="20dp"/>
+        <ImageView
+            android:layout_width="372dp"
+            android:layout_height="255dp"
+            android:layout_gravity="center"
+            android:src="@drawable/wan" />
+        <ImageView
+            android:layout_width="372dp"
+            android:layout_height="255dp"
+            android:layout_gravity="center"
+            android:src="@drawable/tho" />
+        <ImageView
+            android:layout_width="372dp"
+            android:layout_height="255dp"
+            android:layout_gravity="center"
+            android:src="@drawable/tre" />
+        <ImageView
+            android:layout_width="372dp"
+            android:layout_height="255dp"
+            android:layout_gravity="center"
+            android:src="@drawable/por" />
+        <ImageView
+            android:layout_width="372dp"
+            android:layout_height="255dp"
+            android:layout_gravity="center"
+            android:src="@drawable/payb" />
+
+
+
+
+
+    </LinearLayout>
+
+
+</ScrollView>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/baloo_bhai</item>
+        <item>@font/bowlby_one</item>
+        <item>@font/candal</item>
+        <item>@font/carter_one</item>
+        <item>@font/cherry_cream_soda</item>
+        <item>@font/coiny</item>
+        <item>@font/paytone_one</item>
+        <item>@font/permanent_marker</item>
+        <item>@font/sigmar_one</item>
+        <item>@font/slackey</item>
+        <item>@font/vast_shadow</item>
+    </array>
+</resources>

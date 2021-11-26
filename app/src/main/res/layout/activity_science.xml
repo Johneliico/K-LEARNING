@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/sum"
+    tools:context=".science">
+
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="281dp"
+        android:layout_height="60dp"
+        android:fontFamily="@font/slackey"
+        android:gravity="center"
+        android:text="SCIENCE"
+        android:textColor="#ff1a1a"
+        android:textSize="40dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.138" />
+
+    <Button
+        android:id="@+id/button13"
+        android:layout_width="315dp"
+        android:layout_height="84dp"
+        android:layout_marginTop="28dp"
+        android:background="@drawable/hoy"
+        android:fontFamily="@font/slackey"
+        android:text="animal habitats"
+        android:textColor="#ffff"
+        android:onClick="animals"
+        android:textSize="25dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView6" />
+
+    <Button
+        android:id="@+id/button14"
+        android:layout_width="315dp"
+        android:layout_height="84dp"
+        android:background="@drawable/hoy"
+        android:fontFamily="@font/slackey"
+        android:text="parts of the body"
+        android:textColor="#ffff"
+        android:onClick="body"
+        android:textSize="25dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/button13"
+        app:layout_constraintVertical_bias="0.143" />
+
+    <Button
+        android:id="@+id/button15"
+        android:layout_width="315dp"
+        android:layout_height="84dp"
+        android:background="@drawable/hoy"
+        android:fontFamily="@font/slackey"
+        android:text="state of matter"
+        android:textColor="#ffff"
+        android:textSize="25dp"
+        android:onClick="matter"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/button14"
+        app:layout_constraintVertical_bias="0.21" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

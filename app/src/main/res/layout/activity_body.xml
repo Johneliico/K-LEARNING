@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/sum"
+    tools:context=".body">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="PARTS OF THE BODY"
+            android:textSize="35dp"
+            android:gravity="center"
+            android:fontFamily="@font/slackey"
+            android:textColor="#0000ff"
+            android:layout_marginTop="20dp"/>
+        <ImageView
+            android:layout_width="372dp"
+            android:layout_height="255dp"
+            android:layout_gravity="center"
+            android:src="@drawable/head" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="HEAD"
+            android:textSize="30dp"
+            android:gravity="center"
+            android:fontFamily="@font/slackey"
+            android:textColor="#0000ff"
+            android:layout_marginTop="20dp"/>
+
+        <ImageView
+            android:layout_width="372dp"
+            android:layout_height="255dp"
+            android:layout_gravity="center"
+            android:src="@drawable/nose"
+            android:paddingTop="12dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="NOSE"
+            android:textSize="30dp"
+            android:gravity="center"
+            android:fontFamily="@font/slackey"
+            android:textColor="#0000ff"
+            android:layout_marginTop="20dp"/>
+        <ImageView
+            android:layout_width="372dp"
+            android:layout_height="255dp"
+            android:layout_gravity="center"
+            android:paddingTop="12dp"
+            android:src="@drawable/ear" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="EARS"
+            android:textSize="30dp"
+            android:gravity="center"
+            android:fontFamily="@font/slackey"
+            android:textColor="#0000ff"
+            android:layout_marginTop="20dp"/>
+        <ImageView
+            android:layout_width="372dp"
+            android:layout_height="255dp"
+            android:layout_gravity="center"
+            android:paddingTop="12dp"
+            android:src="@drawable/mouth" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="MOUTH"
+            android:textSize="30dp"
+            android:gravity="center"
+            android:fontFamily="@font/slackey"
+            android:textColor="#0000ff"
+            android:layout_marginTop="20dp"/>
+        <ImageView
+            android:layout_width="372dp"
+            android:layout_height="255dp"
+            android:layout_gravity="center"
+            android:paddingTop="12dp"
+            android:src="@drawable/eyes" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="EYES"
+            android:textSize="30dp"
+            android:gravity="center"
+            android:fontFamily="@font/slackey"
+            android:textColor="#0000ff"
+            android:layout_marginTop="20dp"/>
+        <ImageView
+            android:layout_width="372dp"
+            android:layout_height="255dp"
+            android:layout_gravity="center"
+            android:paddingTop="12dp"
+            android:src="@drawable/chest" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="CHEST"
+            android:textSize="30dp"
+            android:gravity="center"
+            android:fontFamily="@font/slackey"
+            android:textColor="#0000ff"
+            android:layout_marginTop="20dp"/>
+        <ImageView
+            android:layout_width="372dp"
+            android:layout_height="255dp"
+            android:layout_gravity="center"
+            android:paddingTop="12dp"
+            android:src="@drawable/hands" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="HANDS"
+            android:textSize="30dp"
+            android:gravity="center"
+            android:fontFamily="@font/slackey"
+            android:textColor="#0000ff"
+            android:layout_marginTop="20dp"/>
+
+        <ImageView
+            android:layout_width="372dp"
+            android:layout_height="255dp"
+            android:layout_gravity="center"
+            android:paddingTop="12dp"
+            android:src="@drawable/knee" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="KNEE"
+            android:textSize="30dp"
+            android:gravity="center"
+            android:fontFamily="@font/slackey"
+            android:textColor="#0000ff"
+            android:layout_marginTop="20dp"/>
+        <ImageView
+            android:layout_width="372dp"
+            android:layout_height="255dp"
+            android:layout_gravity="center"
+            android:paddingTop="12dp"
+            android:src="@drawable/foot" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="FOOT"
+            android:textSize="30dp"
+            android:gravity="center"
+            android:fontFamily="@font/slackey"
+            android:textColor="#0000ff"
+            android:layout_marginTop="20dp"/>
+
+
+    </LinearLayout>
+
+
+</ScrollView>

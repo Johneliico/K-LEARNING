@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/sum"
+    tools:context=".mainquizz">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="NUMBER OF QUESTIONS"
+        android:fontFamily="@font/slackey"
+        android:textAllCaps="false"
+        android:textAlignment="center"
+        android:gravity="center"
+        android:layout_marginTop="30dp"
+        android:textSize="20dp"
+        android:textColor="#ff0000"
+        android:id="@+id/idTVQuestionAttempted"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/idTVQuestion"
+        android:layout_below="@+id/idTVQuestionAttempted"
+        android:text="QUESTION"
+        android:fontFamily="@font/slackey"
+        android:textAlignment="center"
+        android:gravity="center"
+        android:textSize="30dp"
+        android:textColor="#002080"
+        android:layout_marginTop="25dp"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="110dp"
+        android:layout_below="@+id/idTVQuestion"
+        android:orientation="vertical">
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="4dp"
+            android:padding="4dp"
+            android:text="Option 1"
+            android:textSize="30dp"
+            android:textColor="#ffff"
+            android:textAllCaps="false"
+            android:id="@+id/idBtn0ption1"
+            android:background="@drawable/hoy"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="4dp"
+            android:padding="4dp"
+            android:text="Option 2"
+            android:textSize="30dp"
+            android:textColor="#ffff"
+            android:textAllCaps="false"
+            android:id="@+id/idBtn0ption2"
+            android:background="@drawable/hoy"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="4dp"
+            android:padding="4dp"
+            android:textSize="30dp"
+            android:textColor="#ffff"
+            android:text="Option 3"
+            android:textAllCaps="false"
+            android:id="@+id/idBtn0ption3"
+            android:background="@drawable/hoy"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="4dp"
+            android:padding="4dp"
+            android:textSize="30dp"
+            android:textColor="#ffff"
+            android:text="Option 4"
+            android:textAllCaps="false"
+            android:id="@+id/idBtn0ption4"
+            android:background="@drawable/hoy"/>
+
+
+
+    </LinearLayout>
+
+</RelativeLayout>
