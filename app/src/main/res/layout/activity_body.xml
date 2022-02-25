@@ -11,152 +11,117 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:orientation="vertical">
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="PARTS OF THE BODY"
-            android:textSize="35dp"
-            android:gravity="center"
-            android:fontFamily="@font/slackey"
-            android:textColor="#0000ff"
-            android:layout_marginTop="20dp"/>
-        <ImageView
-            android:layout_width="372dp"
-            android:layout_height="255dp"
-            android:layout_gravity="center"
-            android:src="@drawable/head" />
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="HEAD"
-            android:textSize="30dp"
-            android:gravity="center"
-            android:fontFamily="@font/slackey"
-            android:textColor="#0000ff"
-            android:layout_marginTop="20dp"/>
 
-        <ImageView
-            android:layout_width="372dp"
-            android:layout_height="255dp"
-            android:layout_gravity="center"
-            android:src="@drawable/nose"
-            android:paddingTop="12dp"/>
         <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="NOSE"
-            android:textSize="30dp"
-            android:gravity="center"
-            android:fontFamily="@font/slackey"
-            android:textColor="#0000ff"
-            android:layout_marginTop="20dp"/>
-        <ImageView
-            android:layout_width="372dp"
-            android:layout_height="255dp"
+            android:layout_width="342dp"
+            android:layout_height="69dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/blue"
+            android:fontFamily="@font/russo_one"
             android:layout_gravity="center"
-            android:paddingTop="12dp"
-            android:src="@drawable/ear" />
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="EARS"
-            android:textSize="30dp"
             android:gravity="center"
-            android:fontFamily="@font/slackey"
-            android:textColor="#0000ff"
-            android:layout_marginTop="20dp"/>
-        <ImageView
-            android:layout_width="372dp"
-            android:layout_height="255dp"
-            android:layout_gravity="center"
-            android:paddingTop="12dp"
-            android:src="@drawable/mouth" />
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="MOUTH"
-            android:textSize="30dp"
-            android:gravity="center"
-            android:fontFamily="@font/slackey"
-            android:textColor="#0000ff"
-            android:layout_marginTop="20dp"/>
-        <ImageView
-            android:layout_width="372dp"
-            android:layout_height="255dp"
-            android:layout_gravity="center"
-            android:paddingTop="12dp"
-            android:src="@drawable/eyes" />
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="EYES"
-            android:textSize="30dp"
-            android:gravity="center"
-            android:fontFamily="@font/slackey"
-            android:textColor="#0000ff"
-            android:layout_marginTop="20dp"/>
-        <ImageView
-            android:layout_width="372dp"
-            android:layout_height="255dp"
-            android:layout_gravity="center"
-            android:paddingTop="12dp"
-            android:src="@drawable/chest" />
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="CHEST"
-            android:textSize="30dp"
-            android:gravity="center"
-            android:fontFamily="@font/slackey"
-            android:textColor="#0000ff"
-            android:layout_marginTop="20dp"/>
-        <ImageView
-            android:layout_width="372dp"
-            android:layout_height="255dp"
-            android:layout_gravity="center"
-            android:paddingTop="12dp"
-            android:src="@drawable/hands" />
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="HANDS"
-            android:textSize="30dp"
-            android:gravity="center"
-            android:fontFamily="@font/slackey"
-            android:textColor="#0000ff"
-            android:layout_marginTop="20dp"/>
+            android:text="Parts of the body"
+            android:textColor="#ffff"
+            android:textSize="30dp"/>
 
-        <ImageView
-            android:layout_width="372dp"
-            android:layout_height="255dp"
+        <ImageButton
+            android:id="@+id/imageButton53"
+            android:layout_width="360dp"
+            android:layout_height="400dp"
             android:layout_gravity="center"
-            android:paddingTop="12dp"
-            android:src="@drawable/knee" />
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="KNEE"
-            android:textSize="30dp"
-            android:gravity="center"
-            android:fontFamily="@font/slackey"
-            android:textColor="#0000ff"
-            android:layout_marginTop="20dp"/>
-        <ImageView
-            android:layout_width="372dp"
-            android:layout_height="255dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/eyes" />
+        <ImageButton
+            android:id="@+id/imageButton54"
+            android:layout_width="360dp"
+            android:layout_height="400dp"
             android:layout_gravity="center"
-            android:paddingTop="12dp"
-            android:src="@drawable/foot" />
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="FOOT"
-            android:textSize="30dp"
-            android:gravity="center"
-            android:fontFamily="@font/slackey"
-            android:textColor="#0000ff"
-            android:layout_marginTop="20dp"/>
-
+            android:layout_marginTop="20dp"
+            android:background="@drawable/head" />
+        <ImageButton
+            android:id="@+id/imageButton55"
+            android:layout_width="375dp"
+            android:layout_height="400dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/nose" />
+        <ImageButton
+            android:id="@+id/imageButton56"
+            android:layout_width="360dp"
+            android:layout_height="400dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/mouth" />
+        <ImageButton
+            android:id="@+id/imageButton57"
+            android:layout_width="360dp"
+            android:layout_height="400dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/ears" />
+        <ImageButton
+            android:id="@+id/imageButton58"
+            android:layout_width="360dp"
+            android:layout_height="400dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/neck" />
+        <ImageButton
+            android:id="@+id/imageButton59"
+            android:layout_width="360dp"
+            android:layout_height="400dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/shoulder" />
+        <ImageButton
+            android:id="@+id/imageButton60"
+            android:layout_width="360dp"
+            android:layout_height="400dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/arms" />
+        <ImageButton
+            android:id="@+id/imageButton61"
+            android:layout_width="360dp"
+            android:layout_height="400dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/chest" />
+        <ImageButton
+            android:id="@+id/imageButton62"
+            android:layout_width="360dp"
+            android:layout_height="400dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/elbow" />
+        <ImageButton
+            android:id="@+id/imageButton63"
+            android:layout_width="360dp"
+            android:layout_height="400dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/thigh" />
+        <ImageButton
+            android:id="@+id/imageButton64"
+            android:layout_width="360dp"
+            android:layout_height="400dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/kneel" />
+        <ImageButton
+            android:id="@+id/imageButton65"
+            android:layout_width="360dp"
+            android:layout_height="400dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/foot" />
+        <ImageButton
+            android:id="@+id/imageButton66"
+            android:layout_width="360dp"
+            android:layout_height="400dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/toe" />
 
     </LinearLayout>
 

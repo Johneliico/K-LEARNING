@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/qweqeq"
+    android:orientation="vertical"
+    tools:context=".sistye">
+
+    <ImageView
+        android:layout_width="302dp"
+        android:layout_height="108dp"
+        android:layout_marginTop="20dp"
+        android:layout_gravity="center_horizontal"
+        android:background="@drawable/plss" />
+
+    <HorizontalScrollView
+        android:layout_width="match_parent"
+        android:layout_height="450dp"
+        android:layout_marginTop="20dp">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="27dp"
+                android:layout_marginLeft="10sp"
+                android:src="@drawable/fiftyone" />
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="27dp"
+                android:layout_marginLeft="10sp"
+                android:src="@drawable/fiftytwo" />
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="27dp"
+                android:layout_marginLeft="10sp"
+                android:src="@drawable/fiftythree" />
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="27dp"
+                android:layout_marginLeft="10sp"
+                android:src="@drawable/fiftyfour" />
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="27dp"
+                android:layout_marginLeft="10sp"
+                android:src="@drawable/fourtyfive" />
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="27dp"
+                android:layout_marginLeft="10sp"
+                android:src="@drawable/fiftysix" />
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="27dp"
+                android:layout_marginLeft="10sp"
+                android:src="@drawable/fiftyseven" />
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="27dp"
+                android:layout_marginLeft="10sp"
+                android:src="@drawable/fiftyeight" />
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="27dp"
+                android:layout_marginLeft="10sp"
+                android:src="@drawable/fiftynine" />
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="27dp"
+                android:layout_marginLeft="10sp"
+                android:src="@drawable/sixty" />
+
+
+
+        </LinearLayout>
+
+    </HorizontalScrollView>
+
+
+
+
+</LinearLayout>

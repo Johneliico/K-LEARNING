@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/gerp"
+    tools:context=".tabletwo">
+
+
+    <TextView
+        android:layout_width="369dp"
+        android:layout_height="120dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="130dp"
+        android:fontFamily="@font/slackey"
+        android:gravity="center"
+        android:text="SUBTRACTION"
+        android:textColor="#ffff00"
+        android:textSize="35sp" />
+
+
+    <Button
+        android:layout_width="306dp"
+        android:layout_height="89dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/gradient"
+        android:gravity="center"
+        android:onClick="tabletwo"
+        android:text="Subtracting Numbers"
+        android:textColor="#ffff"
+        android:textSize="23sp"
+        android:textStyle="bold" />
+    <Button
+        android:layout_width="306dp"
+        android:layout_height="89dp"
+        android:layout_gravity="center"
+        android:onClick="bawas"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/gradient"
+        android:gravity="center"
+        android:text="SUBTRACTING TABLE"
+        android:textColor="#ffff"
+        android:textSize="23sp"
+        android:textStyle="bold"/>
+
+
+
+
+</LinearLayout>

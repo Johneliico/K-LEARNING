@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/defe"
+    tools:context=".groweshi">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="282dp"
+            android:layout_height="69dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/blue"
+            android:fontFamily="@font/slackey"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:text="GROW FOODS"
+            android:textColor="#ffff"
+            android:textSize="30dp"/>
+
+        <ImageView
+            android:layout_width="340dp"
+            android:layout_height="340dp"
+            android:layout_marginTop="20dp"
+            android:layout_gravity="center"
+            android:background="@drawable/meate"/>
+        <ImageView
+            android:layout_width="340dp"
+            android:layout_height="340dp"
+            android:layout_marginTop="10dp"
+            android:layout_gravity="center"
+            android:background="@drawable/chickene"/>
+        <ImageView
+            android:layout_width="340dp"
+            android:layout_height="340dp"
+            android:layout_marginTop="10dp"
+            android:layout_gravity="center"
+            android:background="@drawable/fishe"/>
+        <ImageView
+            android:layout_width="340dp"
+            android:layout_height="340dp"
+            android:layout_marginTop="10dp"
+            android:layout_gravity="center"
+            android:background="@drawable/milke"/>
+        <ImageView
+            android:layout_width="340dp"
+            android:layout_height="340dp"
+            android:layout_marginTop="10dp"
+            android:layout_gravity="center"
+            android:background="@drawable/cheesee"/>
+        <ImageView
+            android:layout_width="340dp"
+            android:layout_height="340dp"
+            android:layout_marginTop="10dp"
+            android:layout_gravity="center"
+            android:background="@drawable/egge"/>
+        <ImageView
+            android:layout_width="340dp"
+            android:layout_height="340dp"
+            android:layout_marginTop="10dp"
+            android:layout_gravity="center"
+            android:background="@drawable/peanute"/>
+        <ImageView
+            android:layout_width="340dp"
+            android:layout_height="340dp"
+            android:layout_marginTop="10dp"
+            android:layout_gravity="center"
+            android:background="@drawable/labstere"/>
+
+
+
+    </LinearLayout>
+
+</ScrollView>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/xanu"
+    tools:context=".storieshort">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="340dp"
+            android:layout_height="95dp"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center"
+            android:background="@drawable/coulogo" />
+
+        <Button
+            android:layout_width="335dp"
+            android:layout_height="65dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:gravity="center"
+            android:onClick="ghsoe"
+            android:fontFamily="@font/candal"
+            android:textColor="#fff"
+            android:text="The Goose with the Golden Eggs"
+            android:background="@drawable/bringe"
+            android:textSize="15sp"/>
+        <Button
+            android:layout_width="335dp"
+            android:layout_height="65dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:onClick="lionel"
+            android:gravity="center"
+            android:fontFamily="@font/candal"
+            android:textColor="#fff"
+            android:text="The Lion and the Mouse"
+            android:background="@drawable/bringe"
+            android:textSize="18sp"/>
+        <Button
+            android:layout_width="335dp"
+            android:layout_height="65dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:gravity="center"
+            android:fontFamily="@font/candal"
+            android:textColor="#fff"
+            android:onClick="hares"
+            android:text="The Hare and the Tortoise"
+            android:background="@drawable/bringe"
+            android:textSize="18sp"/>
+        <Button
+            android:layout_width="335dp"
+            android:layout_height="65dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:gravity="center"
+            android:onClick="grasho"
+            android:fontFamily="@font/candal"
+            android:textColor="#fff"
+            android:text="The Ant and the Grasshopper"
+            android:background="@drawable/bringe"
+            android:textSize="18sp"/>
+        <Button
+            android:layout_width="335dp"
+            android:layout_height="65dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:gravity="center"
+            android:onClick="davud"
+            android:fontFamily="@font/candal"
+            android:textColor="#fff"
+            android:text="David and Goliath "
+            android:background="@drawable/bringe"
+            android:textSize="18sp"/>
+        <Button
+            android:layout_width="335dp"
+            android:layout_height="65dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:gravity="center"
+            android:fontFamily="@font/candal"
+            android:onClick="jabok"
+            android:textColor="#fff"
+            android:text="Jack and the Beanstalk "
+            android:background="@drawable/bringe"
+            android:textSize="18sp"/>
+        <Button
+            android:layout_width="335dp"
+            android:layout_height="65dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:gravity="center"
+            android:onClick="foie"
+            android:fontFamily="@font/candal"
+            android:textColor="#fff"
+            android:text="The Fox and the Grapes"
+            android:background="@drawable/bringe"
+            android:textSize="18sp"/>
+        <Button
+            android:layout_width="335dp"
+            android:layout_height="65dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:gravity="center"
+            android:fontFamily="@font/candal"
+            android:textColor="#fff"
+            android:onClick="dolke"
+            android:text="The Monkey and the Dolphin"
+            android:background="@drawable/bringe"
+            android:textSize="18sp"/>
+        <Button
+            android:layout_width="335dp"
+            android:layout_height="65dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:gravity="center"
+            android:fontFamily="@font/candal"
+            android:textColor="#fff"
+            android:onClick="clevr"
+            android:text="The Clever Crow"
+            android:background="@drawable/bringe"
+            android:textSize="18sp"/>
+        <Button
+            android:layout_width="335dp"
+            android:layout_height="65dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:gravity="center"
+            android:fontFamily="@font/candal"
+            android:textColor="#ffff"
+            android:onClick="shepa"
+            android:layout_marginBottom="90dp"
+            android:text="Shepherd Boy"
+            android:background="@drawable/bringe"
+            android:textSize="18sp"/>
+
+
+    </LinearLayout>
+
+</ScrollView>

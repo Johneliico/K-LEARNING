@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/qweqeq"
+    android:orientation="vertical"
+    tools:context=".fiftye">
+
+    <ImageView
+        android:layout_width="302dp"
+        android:layout_height="108dp"
+        android:layout_marginTop="20dp"
+        android:layout_gravity="center_horizontal"
+        android:background="@drawable/plss" />
+
+    <HorizontalScrollView
+        android:layout_width="match_parent"
+        android:layout_height="450dp"
+        android:layout_marginTop="20dp">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="27dp"
+                android:layout_marginLeft="10sp"
+                android:src="@drawable/fourtyone" />
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="27dp"
+                android:layout_marginLeft="10sp"
+                android:src="@drawable/fourtytwo" />
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="27dp"
+                android:layout_marginLeft="10sp"
+                android:src="@drawable/fourtyfour" />
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="27dp"
+                android:layout_marginLeft="10sp"
+                android:src="@drawable/fourtythree" />
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="27dp"
+                android:layout_marginLeft="10sp"
+                android:src="@drawable/fourtyfive" />
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="27dp"
+                android:layout_marginLeft="10sp"
+                android:src="@drawable/fourtysix" />
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="27dp"
+                android:layout_marginLeft="10sp"
+                android:src="@drawable/fourtyseven" />
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="27dp"
+                android:layout_marginLeft="10sp"
+                android:src="@drawable/fourtyeight" />
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="27dp"
+                android:layout_marginLeft="10sp"
+                android:src="@drawable/fourtynine" />
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="27dp"
+                android:layout_marginLeft="10sp"
+                android:src="@drawable/fifty" />
+
+
+
+        </LinearLayout>
+
+    </HorizontalScrollView>
+
+</LinearLayout>

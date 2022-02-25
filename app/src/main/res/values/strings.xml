@@ -1,3 +1,519 @@
 <resources>
     <string name="app_name">KIDS-LEARNING</string>
+    <string name="title_activity_choising">choising</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_drawer">drawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="sums">
+         Summer is the hottest of the four temperate seasons, occurring
+         after spring and before autumn. At or around the summer solstice,
+         the earliest sunrise and latest sunset occurs, daylight hours
+         are longest and dark hours are shortest, with day length decreasing as the
+         season progresses after the solstice.</string>
+    <string name="summs">
+        The contrast between the strong heating of the continent in the
+        summer months (May to September) and the chilling in winter produces
+        sharp seasonal variations in atmospheric circulation and also enhances the role of local
+        centres of atmospheric activity.
+    </string>
+    <string name="splashe">Spring, also known as springtime, is one of the four temperate seasons,
+succeeding winter and preceding summer. There are various technical
+definitions of spring, but local usage of the term varies according to
+local climate, cultures and customs
+</string>
+    <string name="spal">Spring is a time when flowers bloom and trees begin to grow and
+reproduce.The days grow longer and the temperature in most areas
+become more temperate. You can also contemp
+late the melting of ice and thawing of the ground.
+
+spring runs from March 1 to May 31; summer runs from June 1 to August 31</string>
+    <string name="outum">Autumn (sometimes called fall) is one of the four seasons of the year
+and is the time of year that transitions summer into winter.
+Along with the tree leaves changing color, the temperature grows colder,
+plants stop making food, animals prepare for the long months ahead,
+and the daylight starts growing shorter.</string>
+    <string name="utums">By the meteorological calendar, the first day of autumn is always 
+1 September; ending on 30 November</string>
+    <string name="wient">Winter, coldest season of the year, between autumn and spring;
+the name comes from an old Germanic word that means “time of water”
+ and refers to the rain and snow of
+winter in middle and high latitudes.</string>
+    <string name="wynt">In the Northern Hemisphere it is commonly regarded as 
+extending from the winter solstice (year’s shortest day), 
+December 21 or 22, to the vernal equinox (day and night equal in length),
+ March 20 or 21, and in the Southern Hemisphere 
+from June 21 or 22 to September 22 or 23.</string>
+    <string name="reyn">The wet season (sometimes called the rainy season) is the time
+of year when most of a region\'s
+average annual rainfall occurs.
+This season gives lots of relief through its natural and cool
+ rain water. All the ponds, rivers and streams become full
+of water which was dried due to the heat.</string>
+    <string name="reiney">There are two rainy seasons, the "short rains"
+from October to December and the
+"long rains" from March to May.</string>
+    <string name="once">Once upon a time, a man and his wife had the good
+ fortune to have a goose which laid a golden egg every day.
+ Lucky though they were, they soon began to think they were not
+ getting rich fast enough.</string>
+    <string name="onc">They imagined that if the bird is able to lay golden eggs, its insides must be made of gold.
+And they thought that if they could get all that precious metal at once,
+they would get mighty rich very soon. So the man and his wife decided to kill the bird.
+
+</string>
+    <string name="oncee">However, upon cutting the goose open, they were shocked to
+find that its innards were like that of any other goose!</string>
+    <string name="onced">MORAL: THINK BEFORE YOU ACT</string>
+    <string name="leoion">Once when a lion, the king of the jungle, was asleep, a little mouse began running up and down on him.
+This soon awakened the lion, who placed his huge paw on the mouse, and opened his big jaws to swallow him.</string>
+    <string name="laon">"Pardon, O King!" cried the little mouse. "Forgive me this time.</string>
+    <string name="lasal">I shall never repeat it and I shall never forget your kindness.
+And who knows, I may be able to do you a good turn one of these days!”</string>
+    <string name="adea">The lion was so tickled by the idea of the mouse being able to help him that he lifted his paw and let him go.</string>
+    <string name="sadu">Sometime later, a few hunters captured the lion, and tied him to a tree.
+After that they went in search of a wagon, to take him to the zoo.
+</string>
+    <string name="mous">Just then the little mouse happened to pass by. On seeing the lion’s plight, he ran up to him and gnawed away the ropes that bound him, the king of the jungle.</string>
+    <string name="mane">"Was I not right?" said the little mouse, very happy to help the lion.
+</string>
+    <string name="shous">MORAL: Small acts of kindness will be rewarded greatly.</string>
+    <string name="haso">
+There once was a speedy Hare who bragged about how fast he could run.
+Tired of hearing him boast, the Tortoise challenged him to a race.
+All the animals in the forest gathered to watch.</string>
+    <string name="kn">The Hare ran down the road for a while and then paused to rest. He looked back at the tortoise and cried out,
+ "How do you expect to win this race when you are walking along at your slow, slow pace?"</string>
+    <string name="tor">The Hare stretched himself out alongside the road and fell asleep, thinking, "There is plenty of time to relax."</string>
+    <string name="antr">One summer’s day, in a field, a Grasshopper was hopping about, chirping and singing to its heart\'s content.
+An Ant passed by, bearing along with great effort an ear of corn he was taking to his nest.
+</string>
+    <string name="ga">"Why don’t you come and chat with me," asked the Grasshopper, "instead of toiling your life away?"
+                     </string>
+    <string name="ghr">"I am helping to store up food for the winter," said the Ant, "and I recommend you to do the same."</string>
+    <string name="erda">"Why bother about winter?" said the Grasshopper. "We have got plenty of food at present."
+But the Ant went on its way and continued its toil.</string>
+    <string name="gol">David was a shepherd boy who lived in Israel. He took care of sheep. God chose David to take care of the Jewish people.
+David played the harp. When the king of Israel was tired of fighting in the war, he asked David to play for him. David’s music made him feel better.</string>
+    <string name="th">Then little David said: “I’ll fight Goliath. God will help me.” And he went and got some stones for his slingshot.</string>
+    <string name="lia">One day a terrible giant named Goliath started bragging to his soldier friends that none of the Jews would dare to fight him. And he was right.
+The Jewish soldiers were all afraid of big Goliath. What would happen to the Jewish people?</string>
+    <string name="dav">The giant just laughed at him. David put a stone in his sling and flung it. The stone hit big Goliath on the head. Then David killed him with his sword.
+All of Goliath’s friends ran away. The little shepherd boy had saved the Jewish people!</string>
+    <string name="jaq">Once upon a time, a poor widow lived with her only son Jack. One day, the mother sent Jack to sell their cow in the market.
+ On the day, a man asked Jack, "Do you want the magic bean in exchange for the cow?".
+Jack took the bean and came back home. The angry mother threw the beans out the window.
+</string>
+    <string name="ckx">That night, the bean grew into a giant beanstalk. Jack climbed the beanstalk and reached a kingdom ruled by a cruel giant. He stole a bag of gold,
+the hen that laid golden eggs and harp before the giant started chasing him. Jack climbed down the beanstalk and chopped it with an axe. </string>
+    <string name="bqw">The giant crushed on the ground and died. Jack\'s life completely changed in the following days. He was no more poor boy but he never forgot his days of
+poverty and always helped the people in need.
+</string>
+    <string name="fi">One afternoon, a fox was walking through the forest and spotted a bunch of grapes hanging from a lofty branch. "Just the thing to quench my thirst," said the fox.
+</string>
+    <string name="ox">
+Taking a few steps back, the fox jumped and just missed the hanging grapes. Again, the fox took a few paces back and tried to reach them, but still failed.</string>
+    <string name="gra">Finally, giving up, the fox turned up his nose and said, "They're probably sour anyway." Then he walked away.</string>
+    <string name="manek">Once upon a time, a captain and his crew wanted to have a journey in the sea. The captain also had a pet, which was a monkey.
+The monkey was a boastful and proud pet. During the journey, a storm destroyed their ship. Everyone fell into the cold water.
+The monkey also fell, and he didn’t know to swim. When he was about to drown, a dolphin appeared and saved his life.
+Then he carried the monkey to the nearest land, which was an island.</string>
+    <string name="ando">He asked the monkey whether he knew that island or not. The monkey said, “Yes, I know. Even the king of this island is my friend.
+I am the prince of this island.</string>
+    <string name="dolq">“But, the dolphin knew that no one was living on the island. He said, “Then you will be king of the island.”
+The monkey surprised and asked, “How will I be the king of the island? “The dolphin replied, “No one lives on this island.
+So, you are the only living one on this island. “And he swam away.
+</string>
+    <string name="cle">Once upon a time, there lived a crow. One summer day, the crow felt thirsty and
+began to look for some water. She flew over the fields but couldn’t find.
+She felt exhausted and she was about to give up.Then she saw a jug near a farm.
+She quickly landed down there to check whether there was any water. She looked inside the jug.</string>
+    <string name="ver">There was some water. She wanted to drink but couldn’t reach the water because of jug’s narrow neck.
+She tried to push it down, but it was too heavy.</string>
+    <string name="cuw">She thought a while. Then she looked around and saw small stones.
+She picked the stones up one by one and threw them inside the jug.
+Thus, the water level rose up enough and she quenched her thirst thanks to her clever plan.</string>
+    <string name="shi">
+There once upon a time, lived a young boy. He was the shepherd of his village. He would take his flock to the large green valleys for grazing.
+One day, he was grazing his flock, but he was bored. He wanted to have fun. He climbed on a hill and cried as, “Wolf! Help!” The villagers
+heard this and rushed to there to keep the wolf away with sticks and axes in their hands. When they arrived there, he began laughing at them.
+he villagers understood it was just a joke. They told him not to do this and returned to the village.</string>
+    <string name="pald">Next day, he again wanted to have fun and did the same thing again. He cried once again as, “Help! There is a wolf!” The villagers rushed to there but
+again they saw the boy laughing at them.</string>
+    <string name="buqy">They got annoyed and warned him again not to do so. The other day, the boy was watching his flock grazing.
+Suddenly a wolf attacked to his flock. The boy cried for help, but the villagers thought that he was joking again.No one showed up and the wolf ate up the
+half of the flock.</string>
+    <string name="biel">The boy began to weep helplessly. He returned to the village with the half flock. The villagers saw him and asked what had happened. He replied,
+ “A wolf attacked my flock and ate up the half of it. I cried for help, but you didn’t come.” An old villager replied, “You lied to us before.
+Nobody believes if you are labelled as a liar before, even when you tell the truth.” He understood his mistake and promised not to do so in future.
+</string>
+    <string name="score">Score 0/10</string>
+    <string name="question_number">1/10 Question</string>
+
+    <string name="question1">Addition: 3 + 6 =</string>
+    <string name="question1_A">8</string>
+    <string name="question1_B">9</string>
+    <string name="question1_C">10</string>
+    <string name="question1_D">3</string>
+    <string name="answer_1">9</string>
+
+    <string name="question2">Addition: 1 + 5 =</string>
+    <string name="question2_A">1</string>
+    <string name="question2_B">4</string>
+    <string name="question2_C">7</string>
+    <string name="question2_D">6</string>
+    <string name="answer_2">6</string>
+
+    <string name="question3">Subtraction: 7 - 5 =</string>
+    <string name="question3_A">1</string>
+    <string name="question3_B">4</string>
+    <string name="question3_C">2</string>
+    <string name="question3_D">6</string>
+    <string name="answer_3">2</string>
+
+    <string name="question4">Subtraction: 6 - 2 =</string>
+    <string name="question4_A">4</string>
+    <string name="question4_B">8</string>
+    <string name="question4_C">2</string>
+    <string name="question4_D">1</string>
+    <string name="answer_4">4</string>
+
+    <string name="question5">Which of the following animals spend most of their time in the air?</string>
+    <string name="question5_A">snake</string>
+    <string name="question5_B">bird</string>
+    <string name="question5_C">crocodile</string>
+    <string name="question5_D">shark</string>
+    <string name="answer_5">bird</string>
+
+    <string name="question6">Which of the following animals can live on land?</string>
+    <string name="question6_A">lion</string>
+    <string name="question6_B">whale</string>
+    <string name="question6_C">eagle</string>
+    <string name="question6_D">seahorse</string>
+    <string name="answer_6">lion</string>
+
+    <string name="question7">Which of the following animals can live on water?</string>
+    <string name="question7_A">tiger</string>
+    <string name="question7_B">sparrow</string>
+    <string name="question7_C">zebra</string>
+    <string name="question7_D">octopus</string>
+    <string name="answer_7">octopus</string>
+
+    <string name="question8">Some examples of Glow foods are:</string>
+    <string name="question8_A">chicken</string>
+    <string name="question8_B">peanut</string>
+    <string name="question8_C">pineapple</string>
+    <string name="question8_D">egg</string>
+    <string name="answer_8">pineapple</string>
+
+    <string name="question9">Some examples of Grow foods are:</string>
+    <string name="question9_A">meat</string>
+    <string name="question9_B">banana</string>
+    <string name="question9_C">cabbage</string>
+    <string name="question9_D">rice</string>
+    <string name="answer_9">meat</string>
+
+    <string name="question10">Some examples of Go foods are:</string>
+    <string name="question10_A">fish</string>
+    <string name="question10_B">carrot</string>
+    <string name="question10_C">milk</string>
+    <string name="question10_D">bread</string>
+    <string name="answer_10">bread</string>
+
+
+    <string name="question11">Which of the following animals spend most of their time in the air?</string>
+    <string name="question11_A">Carabao</string>
+    <string name="question11_B">Shrimp</string>
+    <string name="question11_C">Parrot</string>
+    <string name="question11_D">Lizard</string>
+    <string name="answer_11">Parrot</string>
+
+    <string name="question12">Which of the following animals spend most of their time in the air?</string>
+    <string name="question12_A">Dog</string>
+    <string name="question12_B">Dove</string>
+    <string name="question12_C">Crocodile</string>
+    <string name="question12_D">Shark</string>
+    <string name="answer_12">Dove</string>
+
+    <string name="question13">Which of the following can live on land?</string>
+    <string name="question13_A">dog</string>
+    <string name="question13_B">whale</string>
+    <string name="question13_C">penguin</string>
+    <string name="question13_D">none of the above</string>
+    <string name="answer_13">dog</string>
+
+    <string name="question14">Which of the following can live on land?</string>
+    <string name="question14_A">dragon</string>
+    <string name="question14_B">kingfisher</string>
+    <string name="question14_C">swordfish</string>
+    <string name="question14_D">Cheetah</string>
+    <string name="answer_14">cheetah</string>
+
+    <string name="question15">Which of the following can live on water?</string>
+    <string name="question15_A">butterfly</string>
+    <string name="question15_B">penguin</string>
+    <string name="question15_C">salmon</string>
+    <string name="question15_D">tiger</string>
+    <string name="answer_15">salmon</string>
+
+    <string name="question16">Which of the following can live on water?</string>
+    <string name="question16_A">spider</string>
+    <string name="question16_B">dolphin</string>
+    <string name="question16_C">moose</string>
+    <string name="question16_D">bat</string>
+    <string name="answer_16">dolphin</string>
+
+    <string name="question17">Some examples of Grow foods are:</string>
+    <string name="question17_A">cabbage</string>
+    <string name="question17_B">egg</string>
+    <string name="question17_C">bread</string>
+    <string name="question17_D">milktea</string>
+    <string name="answer_17">egg</string>
+
+    <string name="question18">Some examples of Grow foods are:</string>
+    <string name="question18_A">lettuce</string>
+    <string name="question18_B">rice</string>
+    <string name="question18_C">ube</string>
+    <string name="question18_D">cheese</string>
+    <string name="answer_18">cheese</string>
+
+    <string name="question19">Some examples of Glow foods are:</string>
+    <string name="question19_A">apple</string>
+    <string name="question19_B">meat</string>
+    <string name="question19_C">rice</string>
+    <string name="question19_D">none of the above</string>
+    <string name="answer_19">apple</string>
+
+    <string name="question20">Some examples of Glow foods are:</string>
+    <string name="question20_A">milk</string>
+    <string name="question20_B">fish</string>
+    <string name="question20_C">watermelon</string>
+    <string name="question20_D">steak</string>
+    <string name="answer_20">watermelon</string>
+
+
+    <string name="question21">Some examples of Go foods are:</string>
+    <string name="question21_A">carrot</string>
+    <string name="question21_B">tomatoe</string>
+    <string name="question21_C">barbeque</string>
+    <string name="question21_D">noodles</string>
+    <string name="answer_21">noodles</string>
+
+    <string name="question22">Some examples of Go foods are:</string>
+    <string name="question22_A">spaghetti</string>
+    <string name="question22_B">beefsoup</string>
+    <string name="question22_C">eggplant</string>
+    <string name="question22_D">mushroom</string>
+    <string name="answer_22">spaghetti</string>
+
+    <string name="question23">Addition: 18 + 9 =</string>
+    <string name="question23_A">18</string>
+    <string name="question23_B">54</string>
+    <string name="question23_C">27</string>
+    <string name="question23_D">89</string>
+    <string name="answer_23">27</string>
+
+    <string name="question24">Addition: 34 + 10 =</string>
+    <string name="question24_A">98</string>
+    <string name="question24_B">5</string>
+    <string name="question24_C">34</string>
+    <string name="question24_D">44</string>
+    <string name="answer_24">44</string>
+
+    <string name="question25">Addition: 18 + 9 =</string>
+    <string name="question25_A">18</string>
+    <string name="question25_B">5</string>
+    <string name="question25_C">74</string>
+    <string name="question25_D">89</string>
+    <string name="answer_25">74</string>
+
+    <string name="question26">Addition: 78 + 11 =</string>
+    <string name="question26_A">76</string>
+    <string name="question26_B">59</string>
+    <string name="question26_C">88</string>
+    <string name="question26_D">9</string>
+    <string name="answer_26">88</string>
+
+    <string name="question27">Addition: 1 + 9 =</string>
+    <string name="question27_A">10</string>
+    <string name="question27_B">5</string>
+    <string name="question27_C">14</string>
+    <string name="question27_D">89</string>
+    <string name="answer_27">10</string>
+
+    <string name="question28">Addition: 45 + 9 =</string>
+    <string name="question28_A">54</string>
+    <string name="question28_B">59</string>
+    <string name="question28_C">74</string>
+    <string name="question28_D">109</string>
+    <string name="answer_28">54</string>
+
+    <string name="question29">Addition: 13 + 4 =</string>
+    <string name="question29_A">18</string>
+    <string name="question29_B">90</string>
+    <string name="question29_C">24</string>
+    <string name="question29_D">17</string>
+    <string name="answer_29">74</string>
+
+    <string name="question30">Addition: 100 + 900 =</string>
+    <string name="question30_A">200</string>
+    <string name="question30_B">500</string>
+    <string name="question30_C">1000</string>
+    <string name="question30_D">890</string>
+    <string name="answer_30">1000</string>
+
+    <string name="question31">Multiplication: 5 x 7 =</string>
+    <string name="question31_A">18</string>
+    <string name="question31_B">35</string>
+    <string name="question31_C">10</string>
+    <string name="question31_D">29</string>
+    <string name="answer_31">35</string>
+
+    <string name="question32">Multiplication: 7 x 9 =</string>
+    <string name="question32_A">18</string>
+    <string name="question32_B">63</string>
+    <string name="question32_C">10</string>
+    <string name="question32_D">29</string>
+    <string name="answer_32">63</string>
+
+    <string name="question33">Multiplication: 9 x 8 =</string>
+    <string name="question33_A">18</string>
+    <string name="question33_B">35</string>
+    <string name="question33_C">10</string>
+    <string name="question33_D">72</string>
+    <string name="answer_33">72</string>
+
+    <string name="question34">Multiplication: 4 x 6 =</string>
+    <string name="question34_A">24</string>
+    <string name="question34_B">35</string>
+    <string name="question34_C">10</string>
+    <string name="question34_D">72</string>
+    <string name="answer_34">24</string>
+
+    <string name="question35">Multiplication: 11 x 5 =</string>
+    <string name="question35_A">18</string>
+    <string name="question35_B">55</string>
+    <string name="question35_C">10</string>
+    <string name="question35_D">72</string>
+    <string name="answer_35">55</string>
+
+    <string name="question36">Multiplication: 6 x 8 =</string>
+    <string name="question36_A">48</string>
+    <string name="question36_B">35</string>
+    <string name="question36_C">10</string>
+    <string name="question36_D">72</string>
+    <string name="answer_36">48</string>
+
+    <string name="question37">Multiplication: 9 x 2 =</string>
+    <string name="question37_A">18</string>
+    <string name="question37_B">35</string>
+    <string name="question37_C">10</string>
+    <string name="question37_D">72</string>
+    <string name="answer_37">18</string>
+
+    <string name="question38">Multiplication: 9 x 32 =</string>
+    <string name="question38_A">182</string>
+    <string name="question38_B">342</string>
+    <string name="question38_C">120</string>
+    <string name="question38_D">729</string>
+    <string name="answer_38">342</string>
+
+    <string name="question39">Multiplication: 7 x 66 =</string>
+    <string name="question39_A">181</string>
+    <string name="question39_B">352</string>
+    <string name="question39_C">104</string>
+    <string name="question39_D">462</string>
+    <string name="answer_39">462</string>
+
+    <string name="question40">Multiplication: 9 x 9 =</string>
+    <string name="question40_A">18</string>
+    <string name="question40_B">35</string>
+    <string name="question40_C">10</string>
+    <string name="question40_D">81</string>
+    <string name="answer_40">81</string>
+
+
+    <string name="question41">Substraction: 7 - 5 =</string>
+    <string name="question41_A">18</string>
+    <string name="question41_B">2</string>
+    <string name="question41_C">10</string>
+    <string name="question41_D">4</string>
+    <string name="answer_41">2</string>
+
+    <string name="question42">Substraction: 3 - 8 =</string>
+    <string name="question42_A">18</string>
+    <string name="question42_B">5</string>
+    <string name="question42_C">10</string>
+    <string name="question42_D">4</string>
+    <string name="answer_42">5</string>
+
+    <string name="question43">Substraction: 6 - 9 =</string>
+    <string name="question43_A">18</string>
+    <string name="question43_B">3</string>
+    <string name="question43_C">10</string>
+    <string name="question43_D">4</string>
+    <string name="answer_43">3</string>
+
+    <string name="question44">Substraction: 98 - 32 =</string>
+    <string name="question44_A">18</string>
+    <string name="question44_B">35</string>
+    <string name="question44_C">66</string>
+    <string name="question44_D">4</string>
+    <string name="answer_44">66</string>
+
+    <string name="question45">Substraction: 65 - 39 =</string>
+    <string name="question45_A">26</string>
+    <string name="question45_B">35</string>
+    <string name="question45_C">10</string>
+    <string name="question45_D">4</string>
+    <string name="answer_45">26</string>
+
+    <string name="question46">Substraction: 44 - 25 =</string>
+    <string name="question46_A">18</string>
+    <string name="question46_B">35</string>
+    <string name="question46_C">19</string>
+    <string name="question46_D">4</string>
+    <string name="answer_46">19</string>
+
+    <string name="question47">Substraction: 67 - 56 =</string>
+    <string name="question47_A">18</string>
+    <string name="question47_B">35</string>
+    <string name="question47_C">11</string>
+    <string name="question47_D">4</string>
+    <string name="answer_47">11</string>
+
+    <string name="question48">Substraction: 37 - 5 =</string>
+    <string name="question48_A">18</string>
+    <string name="question48_B">35</string>
+    <string name="question48_C">32</string>
+    <string name="question48_D">4</string>
+    <string name="answer_48">32</string>
+
+    <string name="question49">Substraction: 79 - 16 =</string>
+    <string name="question49_A">18</string>
+    <string name="question49_B">35</string>
+    <string name="question49_C">10</string>
+    <string name="question49_D">63</string>
+    <string name="answer_49">63</string>
+
+    <string name="question50">Substraction: 88 - 37 =</string>
+    <string name="question50_A">51</string>
+    <string name="question50_B">35</string>
+    <string name="question50_C">10</string>
+    <string name="question50_D">42</string>
+    <string name="answer_50">51</string>
+
+
+
 </resources>

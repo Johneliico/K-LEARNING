@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/oheb"
+    android:orientation="vertical"
+    tools:context=".wead">
+
+
+    <TextView
+        android:layout_width="340dp"
+        android:layout_height="68dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/bringe"
+        android:fontFamily="@font/paytone_one"
+        android:gravity="center"
+        android:text="DIFFERENT SEASON"
+        android:textAlignment="center"
+        android:textColor="#ffff"
+        android:textSize="30dp" />
+
+    <Button
+        android:id="@+id/button31"
+        android:layout_width="323dp"
+        android:layout_height="77dp"
+        android:layout_gravity="center"
+        android:onClick="summe"
+        android:layout_marginTop="30dp"
+        android:fontFamily="@font/slackey"
+        android:background="@drawable/yellowwe"
+        android:text="SUMMER SEASON"
+        android:textColor="#ff9933"
+        android:textSize="25sp"
+        tools:ignore="OnClick" />
+    <Button
+        android:id="@+id/button32"
+        android:layout_width="323dp"
+        android:layout_height="77dp"
+        android:layout_gravity="center"
+        android:onClick="spleng"
+        android:layout_marginTop="15dp"
+        android:fontFamily="@font/slackey"
+        android:background="@drawable/glene"
+        android:text="SPRING SEASON"
+        android:textColor="#00cc00"
+        android:textSize="26sp" />
+    <Button
+        android:id="@+id/button33"
+        android:layout_width="323dp"
+        android:layout_height="77dp"
+        android:onClick="uktum"
+        android:layout_gravity="center"
+        android:layout_marginTop="15dp"
+        android:fontFamily="@font/slackey"
+        android:background="@drawable/olenge"
+        android:text="AUTUMN SEASON"
+        android:textColor="#ff0000"
+        android:textSize="26sp" />
+    <Button
+        android:id="@+id/button34"
+        android:layout_width="323dp"
+        android:layout_height="77dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="15dp"
+        android:onClick="weynter"
+        android:fontFamily="@font/slackey"
+        android:background="@drawable/blue"
+        android:text="WINTER SEASON"
+        android:textColor="#FFFF"
+        android:textSize="26sp" />
+    <Button
+        android:id="@+id/button35"
+        android:layout_width="323dp"
+        android:layout_height="77dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="15dp"
+        android:onClick="reing"
+        android:fontFamily="@font/slackey"
+        android:background="@drawable/deeblu"
+        android:text="RAINY SEASON"
+        android:textColor="#0000cd"
+        android:textSize="26sp" />
+
+
+
+</LinearLayout>

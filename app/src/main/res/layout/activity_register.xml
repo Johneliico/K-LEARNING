@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/sum"
+    android:background="@drawable/wind"
     tools:context=".register">
 
     <TextView
@@ -133,7 +133,7 @@
         android:gravity="center"
         android:onClick="already"
         android:text="Already registered? Sign In"
-        android:textColor="@color/black"
+        android:textColor="@color/white"
         android:textSize="18dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"

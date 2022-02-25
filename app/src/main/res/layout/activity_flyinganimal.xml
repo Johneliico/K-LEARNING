@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/eff"
+    tools:context=".flyinganimal">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="342dp"
+            android:layout_height="69dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/peku"
+            android:fontFamily="@font/russo_one"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:text="Flying Animals"
+            android:textColor="#ffff"
+            android:textSize="35dp"/>
+        <pl.droidsonroids.gif.GifImageView
+            android:layout_marginTop="25dp"
+            android:layout_width="320dp"
+            android:layout_height="269dp"
+            android:layout_gravity="center"
+            android:background="@drawable/philippineeagle" />
+        <TextView
+            android:layout_width="260dp"
+            android:layout_height="68dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10sp"
+            android:background="@drawable/valolet"
+            android:fontFamily="@font/russo_one"
+            android:gravity="center"
+            android:text="PHILIPPINE EAGLE"
+            android:textColor="#ffff"
+            android:textSize="24sp" />
+        <pl.droidsonroids.gif.GifImageView
+            android:layout_marginTop="25dp"
+            android:layout_width="320dp"
+            android:layout_height="269dp"
+            android:layout_gravity="center"
+            android:background="@drawable/bat" />
+        <TextView
+            android:layout_width="250dp"
+            android:layout_height="58dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10sp"
+            android:background="@drawable/valolet"
+            android:fontFamily="@font/russo_one"
+            android:gravity="center"
+            android:text="BAT"
+            android:textColor="#ffff"
+            android:textSize="27sp" />
+        <pl.droidsonroids.gif.GifImageView
+            android:layout_marginTop="25dp"
+            android:layout_width="320dp"
+            android:layout_height="269dp"
+            android:layout_gravity="center"
+            android:background="@drawable/owlie" />
+        <TextView
+            android:layout_width="250dp"
+            android:layout_height="58dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10sp"
+            android:background="@drawable/valolet"
+            android:fontFamily="@font/russo_one"
+            android:gravity="center"
+            android:text="OWL"
+            android:textColor="#ffff"
+            android:textSize="27sp" />
+        <pl.droidsonroids.gif.GifImageView
+            android:layout_marginTop="25dp"
+            android:layout_width="320dp"
+            android:layout_height="269dp"
+            android:layout_gravity="center"
+            android:background="@drawable/sparrow" />
+        <TextView
+            android:layout_width="250dp"
+            android:layout_height="58dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10sp"
+            android:background="@drawable/valolet"
+            android:fontFamily="@font/russo_one"
+            android:gravity="center"
+            android:text="SPARROW"
+            android:textColor="#ffff"
+            android:textSize="27sp" />
+        <pl.droidsonroids.gif.GifImageView
+            android:layout_marginTop="25dp"
+            android:layout_width="320dp"
+            android:layout_height="269dp"
+            android:layout_gravity="center"
+            android:background="@drawable/eaglr" />
+        <TextView
+            android:layout_width="250dp"
+            android:layout_height="58dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10sp"
+            android:background="@drawable/valolet"
+            android:fontFamily="@font/russo_one"
+            android:gravity="center"
+            android:text="EAGLE"
+            android:textColor="#ffff"
+            android:textSize="27sp" />
+        <pl.droidsonroids.gif.GifImageView
+            android:layout_marginTop="25dp"
+            android:layout_width="320dp"
+            android:layout_height="269dp"
+            android:layout_gravity="center"
+            android:background="@drawable/hawk" />
+        <TextView
+            android:layout_width="250dp"
+            android:layout_height="58dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10sp"
+            android:background="@drawable/valolet"
+            android:fontFamily="@font/russo_one"
+            android:gravity="center"
+            android:text="HAWK"
+            android:textColor="#ffff"
+            android:textSize="27sp" />
+        <pl.droidsonroids.gif.GifImageView
+            android:layout_marginTop="25dp"
+            android:layout_width="320dp"
+            android:layout_height="269dp"
+            android:layout_gravity="center"
+            android:background="@drawable/parrots" />
+        <TextView
+            android:layout_width="250dp"
+            android:layout_height="58dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10sp"
+            android:background="@drawable/valolet"
+            android:fontFamily="@font/russo_one"
+            android:gravity="center"
+            android:text="PARROT"
+            android:textColor="#ffff"
+            android:textSize="27sp" />
+        <pl.droidsonroids.gif.GifImageView
+            android:layout_marginTop="25dp"
+            android:layout_width="320dp"
+            android:layout_height="269dp"
+            android:layout_gravity="center"
+            android:background="@drawable/vulture" />
+        <TextView
+            android:layout_width="250dp"
+            android:layout_height="58dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10sp"
+            android:background="@drawable/valolet"
+            android:fontFamily="@font/russo_one"
+            android:gravity="center"
+            android:text="VULTURE"
+            android:textColor="#ffff"
+            android:textSize="27sp" />
+        <pl.droidsonroids.gif.GifImageView
+            android:layout_marginTop="25dp"
+            android:layout_width="320dp"
+            android:layout_height="269dp"
+            android:layout_gravity="center"
+            android:background="@drawable/pigeon" />
+        <TextView
+            android:layout_width="250dp"
+            android:layout_height="58dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10sp"
+            android:background="@drawable/valolet"
+            android:fontFamily="@font/russo_one"
+            android:gravity="center"
+            android:text="PIGEON"
+            android:textColor="#ffff"
+            android:textSize="27sp" />
+        <pl.droidsonroids.gif.GifImageView
+            android:layout_marginTop="25dp"
+            android:layout_width="320dp"
+            android:layout_height="269dp"
+            android:layout_gravity="center"
+            android:background="@drawable/dove" />
+        <TextView
+            android:layout_width="250dp"
+            android:layout_height="58dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10sp"
+            android:background="@drawable/valolet"
+            android:fontFamily="@font/russo_one"
+            android:gravity="center"
+            android:text="DOVE"
+            android:textColor="#ffff"
+            android:textSize="27sp" />
+
+    </LinearLayout>
+
+</ScrollView>

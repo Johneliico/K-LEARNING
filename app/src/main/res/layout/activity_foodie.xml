@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/fude"
+    android:orientation="vertical"
+    tools:context=".foodie">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="170dp"
+        android:fontFamily="@font/slackey"
+        android:gravity="center"
+        android:text="FOODS"
+        android:textAlignment="center"
+        android:textColor="#ff8000"
+        android:textSize="70sp" />
+
+    <ImageButton
+        android:id="@+id/imageButton71"
+        android:layout_width="345dp"
+        android:layout_height="89dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/go" />
+    <ImageButton
+        android:id="@+id/imageButton72"
+        android:layout_width="345dp"
+        android:layout_height="89dp"
+        android:layout_gravity="center"
+        android:background="@drawable/grow" />
+    <ImageButton
+        android:id="@+id/imageButton73"
+        android:layout_width="345dp"
+        android:layout_height="89dp"
+        android:layout_gravity="center"
+        android:background="@drawable/glow" />
+
+
+
+
+
+
+</LinearLayout>

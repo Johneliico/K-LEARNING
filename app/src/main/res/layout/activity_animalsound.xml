@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/twasa"
+    android:orientation="vertical"
+    tools:context=".animalsound">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="340dp"
+                android:layout_height="73dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="20dp"
+                android:fontFamily="@font/sigmar_one"
+                android:gravity="center"
+                android:background="@drawable/andoks"
+                android:textColor="#ffff"
+                android:text="Animal Sounds"
+                android:textAlignment="center"
+                android:textSize="29sp" />
+
+            <ImageButton
+                android:id="@+id/imageButton36"
+                android:layout_width="370dp"
+                android:layout_height="495dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/monkey" />
+            <ImageButton
+                android:id="@+id/imageButton37"
+                android:layout_width="370dp"
+                android:layout_height="495dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/cate" />
+            <ImageButton
+                android:id="@+id/imageButton38"
+                android:layout_width="370dp"
+                android:layout_height="495dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/chicken" />
+            <ImageButton
+                android:id="@+id/imageButton39"
+                android:layout_width="370dp"
+                android:layout_height="495dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/dog" />
+            <ImageButton
+                android:id="@+id/imageButton40"
+                android:layout_width="370dp"
+                android:layout_height="495dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/bird" />
+            <ImageButton
+                android:id="@+id/imageButton41"
+                android:layout_width="370dp"
+                android:layout_height="495dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/sheep" />
+            <ImageButton
+                android:id="@+id/imageButton42"
+                android:layout_width="370dp"
+                android:layout_height="495dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/lion" />
+            <ImageButton
+                android:id="@+id/imageButton43"
+                android:layout_width="370dp"
+                android:layout_height="495dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/cow" />
+            <ImageButton
+                android:id="@+id/imageButton44"
+                android:layout_width="370dp"
+                android:layout_height="495dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/horsew" />
+            <ImageButton
+                android:id="@+id/imageButton45"
+                android:layout_width="370dp"
+                android:layout_height="495dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/tiger" />
+            <ImageButton
+                android:id="@+id/imageButton46"
+                android:layout_width="370dp"
+                android:layout_height="495dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/duck" />
+            <ImageButton
+                android:id="@+id/imageButton47"
+                android:layout_width="370dp"
+                android:layout_height="495dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/pig" />
+            <ImageButton
+                android:id="@+id/imageButton48"
+                android:layout_width="370dp"
+                android:layout_height="495dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/elepante" />
+            <ImageButton
+                android:id="@+id/imageButton49"
+                android:layout_width="370dp"
+                android:layout_height="495dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/owl" />
+            <ImageButton
+                android:id="@+id/imageButton50"
+                android:layout_width="370dp"
+                android:layout_height="495dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/snake" />
+            <ImageButton
+                android:id="@+id/imageButton51"
+                android:layout_width="370dp"
+                android:layout_height="495dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/goat" />
+            <ImageButton
+                android:id="@+id/imageButton52"
+                android:layout_width="370dp"
+                android:layout_height="495dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="50dp"
+                android:background="@drawable/wolf" />
+
+
+        </LinearLayout>
+
+
+
+</ScrollView>

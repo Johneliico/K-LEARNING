@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/janai"
+    tools:context=".landanimals">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="342dp"
+            android:layout_height="69dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/andoks"
+            android:fontFamily="@font/russo_one"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:text="Land Animals"
+            android:textColor="#ffff"
+            android:textSize="35dp"/>
+
+
+        <pl.droidsonroids.gif.GifImageView
+            android:layout_marginTop="25dp"
+            android:layout_width="320dp"
+            android:layout_height="269dp"
+            android:layout_gravity="center"
+            android:background="@drawable/cato" />
+        <TextView
+            android:layout_width="250dp"
+            android:layout_height="58dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10sp"
+            android:background="@drawable/bluel"
+            android:fontFamily="@font/russo_one"
+            android:gravity="center"
+            android:text="CAT"
+            android:textColor="#ffff"
+            android:textSize="27sp" />
+        <pl.droidsonroids.gif.GifImageView
+            android:layout_marginTop="25dp"
+            android:layout_width="320dp"
+            android:layout_height="269dp"
+            android:layout_gravity="center"
+            android:background="@drawable/panda" />
+        <TextView
+            android:layout_width="250dp"
+            android:layout_height="58dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10sp"
+            android:background="@drawable/gradient"
+            android:fontFamily="@font/russo_one"
+            android:gravity="center"
+            android:text="PANDA"
+            android:textColor="#ffff"
+            android:textSize="27sp" />
+        <pl.droidsonroids.gif.GifImageView
+            android:layout_marginTop="25dp"
+            android:layout_width="320dp"
+            android:layout_height="269dp"
+            android:layout_gravity="center"
+            android:background="@drawable/dogsu" />
+        <TextView
+            android:layout_width="250dp"
+            android:layout_height="58dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10sp"
+            android:background="@drawable/bleu"
+            android:fontFamily="@font/russo_one"
+            android:gravity="center"
+            android:text="DOG"
+            android:textColor="#ffff"
+            android:textSize="27sp" />
+        <pl.droidsonroids.gif.GifImageView
+            android:layout_marginTop="25dp"
+            android:layout_width="320dp"
+            android:layout_height="269dp"
+            android:layout_gravity="center"
+            android:background="@drawable/moose" />
+        <TextView
+            android:layout_width="250dp"
+            android:layout_height="58dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10sp"
+            android:background="@drawable/bluel"
+            android:fontFamily="@font/russo_one"
+            android:gravity="center"
+            android:text="MOOSE"
+            android:textColor="#ffff"
+            android:textSize="27sp" />
+        <pl.droidsonroids.gif.GifImageView
+            android:layout_marginTop="25dp"
+            android:layout_width="320dp"
+            android:layout_height="269dp"
+            android:layout_gravity="center"
+            android:background="@drawable/tgeri" />
+        <TextView
+            android:layout_width="250dp"
+            android:layout_height="58dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10sp"
+            android:background="@drawable/gradient"
+            android:fontFamily="@font/russo_one"
+            android:gravity="center"
+            android:text="TIGER"
+            android:textColor="#ffff"
+            android:textSize="27sp" />
+        <pl.droidsonroids.gif.GifImageView
+            android:layout_marginTop="25dp"
+            android:layout_width="320dp"
+            android:layout_height="269dp"
+            android:layout_gravity="center"
+            android:background="@drawable/carabao" />
+        <TextView
+            android:layout_width="250dp"
+            android:layout_height="58dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10sp"
+            android:background="@drawable/bleu"
+            android:fontFamily="@font/russo_one"
+            android:gravity="center"
+            android:text="CARABAO"
+            android:textColor="#ffff"
+            android:textSize="27sp" />
+        <pl.droidsonroids.gif.GifImageView
+            android:layout_marginTop="25dp"
+            android:layout_width="320dp"
+            android:layout_height="269dp"
+            android:layout_gravity="center"
+            android:background="@drawable/monkei" />
+        <TextView
+            android:layout_width="250dp"
+            android:layout_height="58dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10sp"
+            android:background="@drawable/andoks"
+            android:fontFamily="@font/russo_one"
+            android:gravity="center"
+            android:text="MONKEY"
+            android:textColor="#ffff"
+            android:textSize="27sp" />
+        <pl.droidsonroids.gif.GifImageView
+            android:layout_marginTop="25dp"
+            android:layout_width="320dp"
+            android:layout_height="269dp"
+            android:layout_gravity="center"
+            android:background="@drawable/lionking" />
+        <TextView
+            android:layout_width="250dp"
+            android:layout_height="58dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10sp"
+            android:background="@drawable/gradient"
+            android:fontFamily="@font/russo_one"
+            android:gravity="center"
+            android:text="LION"
+            android:textColor="#ffff"
+            android:textSize="27sp" />
+        <pl.droidsonroids.gif.GifImageView
+            android:layout_marginTop="25dp"
+            android:layout_width="320dp"
+            android:layout_height="269dp"
+            android:layout_gravity="center"
+            android:background="@drawable/bear" />
+        <TextView
+            android:layout_width="250dp"
+            android:layout_height="58dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10sp"
+            android:background="@drawable/bluel"
+            android:fontFamily="@font/russo_one"
+            android:gravity="center"
+            android:text="BEAR"
+            android:textColor="#ffff"
+            android:textSize="27sp" />
+        <pl.droidsonroids.gif.GifImageView
+            android:layout_marginTop="25dp"
+            android:layout_width="320dp"
+            android:layout_height="269dp"
+            android:layout_gravity="center"
+            android:background="@drawable/kangaro" />
+        <TextView
+            android:layout_width="250dp"
+            android:layout_height="58dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10sp"
+            android:background="@drawable/bleu"
+            android:fontFamily="@font/russo_one"
+            android:gravity="center"
+            android:text="KANGARO"
+            android:textColor="#ffff"
+            android:textSize="27sp" />
+        <pl.droidsonroids.gif.GifImageView
+            android:layout_marginTop="25dp"
+            android:layout_width="320dp"
+            android:layout_height="269dp"
+            android:layout_gravity="center"
+            android:background="@drawable/crocodile" />
+        <TextView
+            android:layout_width="250dp"
+            android:layout_height="58dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10sp"
+            android:background="@drawable/andoks"
+            android:fontFamily="@font/russo_one"
+            android:gravity="center"
+            android:text="CROCODILE"
+            android:textColor="#ffff"
+            android:textSize="27sp" />
+        <pl.droidsonroids.gif.GifImageView
+            android:layout_marginTop="25dp"
+            android:layout_width="320dp"
+            android:layout_height="269dp"
+            android:layout_gravity="center"
+            android:background="@drawable/hippotamus" />
+        <TextView
+            android:layout_width="250dp"
+            android:layout_height="58dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10sp"
+            android:background="@drawable/bluel"
+            android:fontFamily="@font/russo_one"
+            android:gravity="center"
+            android:text="HIPPOPOTAMUS"
+            android:textColor="#ffff"
+            android:textSize="25sp" />
+        <pl.droidsonroids.gif.GifImageView
+            android:layout_marginTop="25dp"
+            android:layout_width="320dp"
+            android:layout_height="269dp"
+            android:layout_gravity="center"
+            android:background="@drawable/zebra" />
+        <TextView
+            android:layout_width="250dp"
+            android:layout_height="58dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10sp"
+            android:background="@drawable/gradient"
+            android:fontFamily="@font/russo_one"
+            android:gravity="center"
+            android:text="ZEBRA"
+            android:textColor="#ffff"
+            android:textSize="27sp"/>
+        <pl.droidsonroids.gif.GifImageView
+            android:layout_marginTop="25dp"
+            android:layout_width="320dp"
+            android:layout_height="269dp"
+            android:layout_gravity="center"
+            android:background="@drawable/elephant" />
+        <TextView
+            android:layout_width="250dp"
+            android:layout_height="58dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10sp"
+            android:background="@drawable/bleu"
+            android:fontFamily="@font/russo_one"
+            android:gravity="center"
+            android:text="ELEPHANT"
+            android:textColor="#ffff"
+            android:textSize="27sp"/>
+        <pl.droidsonroids.gif.GifImageView
+            android:layout_marginTop="25dp"
+            android:layout_width="320dp"
+            android:layout_height="269dp"
+            android:layout_gravity="center"
+            android:background="@drawable/squirrel" />
+        <TextView
+            android:layout_width="250dp"
+            android:layout_height="58dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10sp"
+            android:background="@drawable/andoks"
+            android:fontFamily="@font/russo_one"
+            android:gravity="center"
+            android:text="SQUIRREL"
+            android:textColor="#ffff"
+            android:textSize="27sp"/>
+        <pl.droidsonroids.gif.GifImageView
+            android:layout_marginTop="25dp"
+            android:layout_width="320dp"
+            android:layout_height="269dp"
+            android:layout_gravity="center"
+            android:background="@drawable/snek" />
+        <TextView
+            android:layout_width="250dp"
+            android:layout_height="58dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10sp"
+            android:background="@drawable/bluel"
+            android:fontFamily="@font/russo_one"
+            android:gravity="center"
+            android:text="SNAKE"
+            android:textColor="#ffff"
+            android:textSize="27sp"/>
+        <pl.droidsonroids.gif.GifImageView
+            android:layout_marginTop="25dp"
+            android:layout_width="320dp"
+            android:layout_height="269dp"
+            android:layout_gravity="center"
+            android:background="@drawable/horsee" />
+        <TextView
+            android:layout_width="250dp"
+            android:layout_height="58dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10sp"
+            android:background="@drawable/gradient"
+            android:fontFamily="@font/russo_one"
+            android:gravity="center"
+            android:text="HORSE"
+            android:textColor="#ffff"
+            android:textSize="27sp"/>
+        <pl.droidsonroids.gif.GifImageView
+            android:layout_marginTop="25dp"
+            android:layout_width="320dp"
+            android:layout_height="269dp"
+            android:layout_gravity="center"
+            android:background="@drawable/komododragon" />
+        <TextView
+            android:layout_width="250dp"
+            android:layout_height="58dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10sp"
+            android:background="@drawable/bleu"
+            android:fontFamily="@font/russo_one"
+            android:gravity="center"
+            android:text="KOMODO DRAGON"
+            android:textColor="#ffff"
+            android:textSize="27sp"/>
+        <pl.droidsonroids.gif.GifImageView
+            android:layout_marginTop="25dp"
+            android:layout_width="320dp"
+            android:layout_height="269dp"
+            android:layout_gravity="center"
+            android:background="@drawable/giraffe" />
+        <TextView
+            android:layout_width="250dp"
+            android:layout_height="58dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10sp"
+            android:background="@drawable/andoks"
+            android:fontFamily="@font/russo_one"
+            android:gravity="center"
+            android:text="GIRAFFE"
+            android:textColor="#ffff"
+            android:textSize="27sp"/>
+        <pl.droidsonroids.gif.GifImageView
+            android:layout_marginTop="25dp"
+            android:layout_width="320dp"
+            android:layout_height="269dp"
+            android:layout_gravity="center"
+            android:background="@drawable/camel" />
+        <TextView
+            android:layout_width="250dp"
+            android:layout_height="58dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10sp"
+            android:background="@drawable/gradient"
+            android:fontFamily="@font/russo_one"
+            android:gravity="center"
+            android:text="CAMEL"
+            android:textColor="#ffff"
+            android:textSize="27sp"/>
+
+
+
+
+
+
+    </LinearLayout>
+
+</ScrollView>

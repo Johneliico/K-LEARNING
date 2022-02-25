@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/pyr"
+    tools:context=".susginoo">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="10dp"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="83dp"
+            android:layout_marginTop="5sp">
+
+
+            <TextView
+                android:layout_width="278dp"
+                android:layout_height="73dp"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentBottom="true"
+                android:layout_marginStart="64dp"
+                android:layout_marginTop="1dp"
+                android:layout_marginEnd="69dp"
+                android:layout_marginBottom="9dp"
+                android:background="@drawable/andoks"
+                android:fontFamily="@font/russo_one"
+                android:gravity="center"
+                android:text="SUBTRACTION"
+                android:textAlignment="center"
+                android:textColor="#ffff"
+                android:textSize="30dp" />
+
+
+        </RelativeLayout>
+
+        <HorizontalScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:layout_width="367dp"
+                    android:layout_height="564dp"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginLeft="7dp"
+                    android:background="@drawable/minusone" />
+
+                <ImageView
+                    android:layout_width="367dp"
+                    android:layout_height="547dp"
+                    android:layout_marginLeft="12dp"
+                    android:layout_gravity="center_horizontal"
+                    android:background="@drawable/minustwo" />
+                <ImageView
+                    android:layout_width="367dp"
+                    android:layout_height="547dp"
+                    android:layout_marginLeft="12dp"
+                    android:layout_gravity="center_horizontal"
+                    android:background="@drawable/minusthre" />
+                <ImageView
+                    android:layout_width="367dp"
+                    android:layout_height="547dp"
+                    android:layout_marginLeft="12dp"
+                    android:layout_gravity="center_horizontal"
+                    android:background="@drawable/minusfour" />
+                <ImageView
+                    android:layout_width="367dp"
+                    android:layout_height="547dp"
+                    android:layout_marginLeft="12dp"
+                    android:layout_gravity="center_horizontal"
+                    android:background="@drawable/minusfive" />
+                <ImageView
+                    android:layout_width="367dp"
+                    android:layout_height="547dp"
+                    android:layout_marginLeft="12dp"
+                    android:layout_gravity="center_horizontal"
+                    android:background="@drawable/minusix" />
+                <ImageView
+                    android:layout_width="367dp"
+                    android:layout_height="547dp"
+                    android:layout_marginLeft="12dp"
+                    android:layout_gravity="center_horizontal"
+                    android:background="@drawable/minuseven" />
+                <ImageView
+                    android:layout_width="367dp"
+                    android:layout_height="547dp"
+                    android:layout_marginLeft="12dp"
+                    android:layout_gravity="center_horizontal"
+                    android:background="@drawable/minuseight" />
+                <ImageView
+                    android:layout_width="367dp"
+                    android:layout_height="547dp"
+                    android:layout_marginLeft="12dp"
+                    android:layout_gravity="center_horizontal"
+                    android:background="@drawable/minusnine" />
+                <ImageView
+                    android:layout_width="367dp"
+                    android:layout_height="547dp"
+                    android:layout_marginLeft="12dp"
+                    android:layout_gravity="center_horizontal"
+                    android:background="@drawable/minusten" />
+            </LinearLayout>
+        </HorizontalScrollView>
+
+
+    </LinearLayout>
+
+</LinearLayout>

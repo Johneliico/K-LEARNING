@@ -1,52 +1,54 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/sum"
+    android:background="@drawable/janai"
+    android:orientation="vertical"
     tools:context=".animals">
 
-    <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:orientation="vertical">
-
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="animal habitats"
-            android:textSize="40sp"
-            android:gravity="center"
-            android:fontFamily="@font/slackey"
-            android:textColor="#ff1a1a"
-            android:layout_marginTop="20dp"/>
-
-        <ImageView
-            android:layout_width="390dp"
-            android:layout_height="280dp"
-            android:layout_gravity="center"
-            android:src="@drawable/water" />
-        <ImageView
-            android:layout_width="390dp"
-            android:layout_height="280dp"
-            android:layout_gravity="center"
-            android:src="@drawable/jungle" />
-        <ImageView
-            android:layout_width="390dp"
-            android:layout_height="280dp"
-            android:layout_gravity="center"
-            android:src="@drawable/farm" />
-        <ImageView
-            android:layout_width="390dp"
-            android:layout_height="280dp"
-            android:layout_gravity="center"
-            android:src="@drawable/arctic" />
-
+    <ImageView
+        android:layout_width="404dp"
+        android:layout_height="177dp"
+        android:layout_marginBottom="20dp"
+        android:background="@drawable/scsa"
+        android:layout_marginTop="20dp"
+        android:layout_gravity="center"/>
+    <ImageButton
+        android:id="@+id/imageButton31"
+        android:layout_width="335dp"
+        android:layout_height="86dp"
+        android:layout_gravity="center"
+        android:layout_marginBottom="8dp"
+        android:background="@drawable/orahs" />
+    <ImageButton
+        android:id="@+id/imageButton32"
+        android:layout_width="335dp"
+        android:layout_marginBottom="8dp"
+        android:layout_height="86dp"
+        android:layout_gravity="center"
+        android:background="@drawable/shra" />
+    <ImageButton
+        android:id="@+id/imageButton33"
+        android:layout_width="335dp"
+        android:layout_height="86dp"
+        android:layout_marginBottom="8dp"
+        android:layout_gravity="center"
+        android:background="@drawable/mawu" />
+    <ImageButton
+        android:id="@+id/imageButton34"
+        android:layout_width="335dp"
+        android:layout_height="86dp"
+        android:layout_gravity="center"
+        android:background="@drawable/kayawe" />
 
 
 
 
-    </LinearLayout>
 
-</ScrollView>
+
+
+
+
+</LinearLayout>

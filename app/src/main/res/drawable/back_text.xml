@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:tools="http://schemas.android.com/tools" xmlns:android="http://schemas.android.com/apk/res/android" tools:ignore="StateListReachable">
+
+   <item>
+       <corners android:radius="10sp" />
+       <stroke android:width="2dp" android:color="#F7B902"/>
+
+
+       <solid android:color="#0E0E0E"/>
+
+   </item>
+
+</selector>

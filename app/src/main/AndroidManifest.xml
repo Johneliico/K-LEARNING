@@ -2,13 +2,209 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.kids_learning">
 
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.KIDSLEARNING">
+        android:theme="@style/Theme.AppCompat.Light.NoActionBar.FullScreen">
+        <activity
+            android:name=".timingsnum"
+            android:exported="false" />
+        <activity
+            android:name=".muteplay"
+            android:exported="false" />
+        <activity
+            android:name=".susginoo"
+            android:exported="false" />
+        <activity
+            android:name=".scoreboards"
+            android:exported="false" />
+        <activity
+            android:name=".editprofile"
+            android:exported="false" />
+        <activity
+            android:name=".letsquizz"
+            android:exported="false" />
+        <activity
+            android:name=".activityquiz"
+            android:exported="false" />
+        <activity
+            android:name=".result"
+            android:exported="false" />
+        <activity
+            android:name=".quayze"
+            android:exported="false" />
+        <activity
+            android:name=".actionverb"
+            android:exported="false" />
+        <activity
+            android:name=".nurlsery"
+            android:exported="false" />
+        <activity
+            android:name=".shimper"
+            android:exported="false" />
+        <activity
+            android:name=".cleavver"
+            android:exported="false" />
+        <activity
+            android:name=".dolmonk"
+            android:exported="false" />
+        <activity
+            android:name=".foxie"
+            android:exported="false" />
+        <activity
+            android:name=".jakbe"
+            android:exported="false" />
+        <activity
+            android:name=".davago"
+            android:exported="false" />
+        <activity
+            android:name=".grahop"
+            android:exported="false" />
+        <activity
+            android:name=".hare"
+            android:exported="false" />
+        <activity
+            android:name=".leiolel"
+            android:exported="false" />
+        <activity
+            android:name=".storieshort"
+            android:exported="false" />
+        <activity
+            android:name=".goose"
+            android:exported="false" />
+        <activity
+            android:name=".shotstories"
+            android:exported="false" />
+        <activity
+            android:name=".alphaaus"
+            android:exported="false" />
+        <activity
+            android:name=".alphakbet"
+            android:exported="false" />
+        <activity
+            android:name=".rene"
+            android:exported="false" />
+        <activity
+            android:name=".wenter"
+            android:exported="false" />
+        <activity
+            android:name=".autuk"
+            android:exported="false" />
+        <activity
+            android:name=".springel"
+            android:exported="false" />
+        <activity
+            android:name=".summers"
+            android:exported="false" />
+        <activity
+            android:name=".wead"
+            android:exported="false" />
+        <activity
+            android:name=".nanamplan"
+            android:exported="false" />
+        <activity
+            android:name=".parplan"
+            android:exported="false" />
+        <activity
+            android:name=".groweshi"
+            android:exported="false" />
+        <activity
+            android:name=".partplant"
+            android:exported="false" />
+        <activity
+            android:name=".plants"
+            android:exported="false" />
+        <activity
+            android:name=".glowfood"
+            android:exported="false" />
+        <activity
+            android:name=".gofood"
+            android:exported="false" />
+        <activity
+            android:name=".foodie"
+            android:exported="false" />
+        <activity
+            android:name=".flyinganimal"
+            android:exported="false" />
+        <activity
+            android:name=".wateranimals"
+            android:exported="false" />
+        <activity
+            android:name=".landanimals"
+            android:exported="false" />
+        <activity
+            android:name=".animalsound"
+            android:exported="false" />
+        <activity
+            android:name=".kidsprofile"
+            android:exported="false" />
+        <activity
+            android:name=".liners"
+            android:exported="false" />
+        <activity
+            android:name=".divisioner"
+            android:exported="false" />
+        <activity
+            android:name=".tablethree"
+            android:exported="false" />
+        <activity
+            android:name=".multiply"
+            android:exported="false" />
+        <activity
+            android:name=".subtract"
+            android:exported="false" />
+        <activity
+            android:name=".dictionaryo"
+            android:exported="false" />
+        <activity
+            android:name=".adding"
+            android:exported="false" />
+        <activity
+            android:name=".tabletwo"
+            android:exported="false" />
+        <activity
+            android:name=".tableone"
+            android:exported="false" />
+        <activity
+            android:name=".onehundredtye"
+            android:exported="false" />
+        <activity
+            android:name=".ninetye"
+            android:exported="false" />
+        <activity
+            android:name=".eightye"
+            android:exported="false" />
+        <activity
+            android:name=".seventye"
+            android:exported="false" />
+        <activity
+            android:name=".sistye"
+            android:exported="false" />
+        <activity
+            android:name=".fiftye"
+            android:exported="false" />
+        <activity
+            android:name=".fourtye"
+            android:exported="false" />
+        <activity
+            android:name=".thirtye"
+            android:exported="false" />
+        <activity
+            android:name=".twentye"
+            android:exported="false" />
+        <activity
+            android:name=".wantoten"
+            android:exported="false" />
+        <activity
+            android:name=".enlish"
+            android:exported="false" />
         <activity
             android:name=".mainquizz"
             android:exported="false" />
@@ -26,9 +222,6 @@
             android:exported="false" />
         <activity
             android:name=".science"
-            android:exported="false" />
-        <activity
-            android:name=".minus"
             android:exported="false" />
         <activity
             android:name=".addition"

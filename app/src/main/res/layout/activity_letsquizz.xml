@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#003399"
+    android:padding="14dp"
+    tools:context=".letsquizz">
+
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dp">
+            <ImageView
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_marginStart="5dp"
+                app:srcCompat="@drawable/ic_stare" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/QuestionNumber"
+                android:text="@string/question_number"
+                android:textSize="24sp"
+                android:textStyle="bold"
+                android:textColor="#ffff00"/>
+
+        </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="SelectedOption"
+            android:visibility="gone"
+            android:id="@+id/selectoption"
+            android:textAlignment="center"
+            android:textColor="#ffff">
+
+        </TextView>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/CorrectAnswer"
+            android:visibility="gone"
+            android:textColor="#ffff"
+            android:textAlignment="center"
+            android:text="CorrectAnswer">
+
+        </TextView>
+
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="140dp"
+        android:paddingRight="50dp"
+        android:paddingLeft="50dp"
+        android:layout_marginBottom="40dp"
+        android:layout_marginTop="30dp"
+        android:gravity="center"
+        android:background="@drawable/blue">
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textColor="#ffff"
+            android:id="@+id/question"
+            android:text="@string/question1"
+            android:textSize="25dp"
+            android:layout_marginTop="10dp">
+
+        </TextView>
+
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/FirstTwoOption"
+        android:layout_gravity="center"
+        android:paddingRight="50dp"
+        android:paddingLeft="50dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="55dp"
+            android:id="@+id/optionA"
+            android:text="@string/question1_A"
+            android:textSize="17sp"
+            android:background="@drawable/gradient"
+            android:textAlignment="center"
+            android:textColor="#ffff"
+            android:paddingTop="14dp">
+
+        </TextView>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="55dp"
+            android:id="@+id/optionB"
+            android:text="@string/question1_B"
+            android:textAlignment="center"
+            android:textColor="#ffff"
+            android:textSize="17sp"
+            android:background="@drawable/gradient"
+            android:layout_marginTop="15dp"
+            android:paddingTop="14dp">
+
+        </TextView>
+
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/RemainingTwoOption"
+        android:layout_gravity="center"
+        android:paddingRight="50dp"
+        android:paddingLeft="50dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="55dp"
+            android:id="@+id/optionC"
+            android:text="@string/question1_C"
+            android:textAlignment="center"
+            android:textColor="#ffff"
+            android:textSize="17sp"
+            android:background="@drawable/gradient"
+            android:layout_marginTop="15dp"
+            android:paddingTop="14dp">
+
+        </TextView>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="55dp"
+            android:id="@+id/optionD"
+            android:text="@string/question1_D"
+            android:background="@drawable/gradient"
+            android:textAlignment="center"
+            android:textColor="#ffff"
+            android:textSize="17sp"
+            android:layout_marginTop="15dp"
+            android:paddingTop="14dp">
+
+        </TextView>
+
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginTop="18dp">
+        
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/score"
+            android:textStyle="bold"
+            android:textColor="#ffff"
+            android:text="@string/score"
+            android:textSize="20sp"
+            android:layout_gravity="end"
+            android:padding="10dp"/>
+
+
+        <ProgressBar
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#ffa384"
+            android:background="#ffff00"
+            android:layout_gravity="bottom"
+            android:id="@+id/progress_bar"
+            style="@style/Widget.AppCompat.ProgressBar.Horizontal"
+            android:indeterminate="false">
+
+        </ProgressBar>
+        
+    </LinearLayout>
+
+
+</LinearLayout>

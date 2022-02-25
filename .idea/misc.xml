@@ -3,30 +3,152 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/drawable/andoks.xml" value="0.17604166666666668" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/drawable/back_text.xml" value="0.17604166666666668" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/drawable/bleu.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/drawable/bloir.xml" value="0.18645833333333334" />
         <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/drawable/blue.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/drawable/bluel.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/drawable/bringe.xml" value="0.18645833333333334" />
         <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/drawable/buts.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/drawable/deeblu.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/drawable/empty_bac.xml" value="0.115" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/drawable/gayeaw.xml" value="0.17604166666666668" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/drawable/ghe.xml" value="0.17604166666666668" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/drawable/glene.xml" value="0.17604166666666668" />
         <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/drawable/grade.xml" value="0.19791666666666666" />
         <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/drawable/gradient.xml" value="0.19791666666666666" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/drawable/grape.xml" value="0.17604166666666668" />
         <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/drawable/green.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/drawable/haynan.xml" value="0.18645833333333334" />
         <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/drawable/hoy.xml" value="0.18802083333333333" />
         <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/drawable/ic_maths.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/drawable/new_edit_back.xml" value="0.17604166666666668" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/drawable/olenge.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/drawable/peku.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/drawable/red.xml" value="0.17604166666666668" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/drawable/valolet.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/drawable/valot.xml" value="0.17604166666666668" />
         <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/drawable/yellow.xml" value="0.18802083333333333" />
-        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/activity_addition.xml" value="0.171875" />
-        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/activity_animals.xml" value="0.171875" />
-        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/activity_body.xml" value="0.171875" />
-        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/activity_choices.xml" value="0.171875" />
-        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/activity_main.xml" value="0.18" />
-        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/activity_mainapps.xml" value="0.18177083333333333" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/drawable/yellowwe.xml" value="0.17604166666666668" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/activity_actionverb.xml" value="0.12390572390572391" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/activity_activityquiz.xml" value="0.1703125" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/activity_adding.xml" value="0.2" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/activity_addition.xml" value="0.19" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/activity_alphaaus.xml" value="0.18" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/activity_alphakbet.xml" value="0.15" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/activity_animals.xml" value="0.19" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/activity_animalsound.xml" value="0.1" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/activity_autuk.xml" value="0.18" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/activity_body.xml" value="0.1464397671294223" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/activity_choices.xml" value="0.22" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/activity_choising.xml" value="0.2" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/activity_choosen.xml" value="0.15989583333333332" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/activity_choosi.xml" value="0.22" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/activity_cleavver.xml" value="0.1703125" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/activity_davago.xml" value="0.25" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/activity_dictionaryo.xml" value="0.22" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/activity_divide.xml" value="0.15989583333333332" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/activity_divisioner.xml" value="0.2" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/activity_dolmonk.xml" value="0.1703125" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/activity_editprofile.xml" value="0.17" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/activity_eightye.xml" value="0.16" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/activity_enlish.xml" value="0.25" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/activity_fiftye.xml" value="0.15029325513196481" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/activity_flyinganimal.xml" value="0.1703125" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/activity_foodie.xml" value="0.17" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/activity_fourtye.xml" value="0.14583333333333334" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/activity_foxie.xml" value="0.1703125" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/activity_glowfood.xml" value="0.1703125" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/activity_gofood.xml" value="0.1703125" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/activity_goose.xml" value="0.18" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/activity_grahop.xml" value="0.21" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/activity_groweshi.xml" value="0.1703125" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/activity_growfood.xml" value="0.1703125" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/activity_growfoods.xml" value="0.15925925925925927" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/activity_hare.xml" value="0.18" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/activity_inter.xml" value="0.18" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/activity_jakbe.xml" value="0.18" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/activity_kidsprofile.xml" value="0.18" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/activity_kidsquizz.xml" value="0.1703125" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/activity_landanimals.xml" value="0.1301233585356148" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/activity_leiolel.xml" value="0.18" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/activity_letsquiz.xml" value="0.1703125" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/activity_letsquizz.xml" value="0.22" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/activity_liners.xml" value="0.15989583333333332" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/activity_lines.xml" value="0.22" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/activity_mainapps.xml" value="0.22" />
         <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/activity_mainquizz.xml" value="0.171875" />
-        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/activity_math.xml" value="0.171875" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/activity_mainquizzes.xml" value="0.19" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/activity_mainquizzess.xml" value="0.1703125" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/activity_math.xml" value="0.25" />
         <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/activity_matter.xml" value="0.171875" />
-        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/activity_minus.xml" value="0.171875" />
-        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/activity_numbers.xml" value="0.171875" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/activity_minter.xml" value="0.1703125" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/activity_minus.xml" value="0.19" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/activity_multiply.xml" value="0.15989583333333332" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/activity_muteplay.xml" value="0.1703125" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/activity_nanamplan.xml" value="0.25" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/activity_ninetye.xml" value="0.13416536661466458" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/activity_numbers.xml" value="0.2" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/activity_nurlsery.xml" value="0.20024494794856093" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/activity_onehundredtye.xml" value="0.13486842105263158" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/activity_paral.xml" value="0.22" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/activity_parplan.xml" value="0.1703125" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/activity_partplant.xml" value="0.2" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/activity_pdenasanaquiz.xml" value="0.1703125" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/activity_perpe.xml" value="0.2" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/activity_plants.xml" value="0.21" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/activity_plessquizz.xml" value="0.1703125" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/activity_qkewz.xml" value="0.17" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/activity_quayze.xml" value="0.17" />
         <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/activity_quiz.xml" value="0.171875" />
         <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/activity_register.xml" value="0.18177083333333333" />
-        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/activity_science.xml" value="0.171875" />
-        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/activity_shape.xml" value="0.171875" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/activity_rene.xml" value="0.1703125" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/activity_result.xml" value="0.1703125" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/activity_science.xml" value="0.22" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/activity_scoreboards.xml" value="0.1703125" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/activity_seventye.xml" value="0.14583333333333334" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/activity_shape.xml" value="0.22" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/activity_shimper.xml" value="0.1703125" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/activity_shotstories.xml" value="0.2" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/activity_sistye.xml" value="0.15029325513196481" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/activity_sobtrak.xml" value="0.1703125" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/activity_springel.xml" value="0.18" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/activity_startgame.xml" value="0.1703125" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/activity_storieshort.xml" value="0.1703125" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/activity_subtract.xml" value="0.2" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/activity_summers.xml" value="0.18" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/activity_susginoo.xml" value="0.10250696378830083" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/activity_tableone.xml" value="0.10462776659959759" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/activity_tablethree.xml" value="0.18" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/activity_tabletwo.xml" value="0.18" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/activity_thirtye.xml" value="0.14583333333333334" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/activity_times.xml" value="0.2" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/activity_timingsnum.xml" value="0.22" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/activity_truequiz.xml" value="0.1703125" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/activity_twentye.xml" value="0.14985380116959066" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/activity_vert.xml" value="0.18" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/activity_wantoten.xml" value="0.15029325513196481" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/activity_wateranimals.xml" value="0.17" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/activity_wead.xml" value="0.1703125" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/activity_wenter.xml" value="0.25" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/content_drawer.xml" value="0.15989583333333332" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/definitions_list_items.xml" value="0.25" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/item.xml" value="0.19" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/main_toolbar.xml" value="0.22" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/meanings_list_items.xml" value="0.18" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/pakuw.xml" value="0.1703125" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/phonetic_list_items.xml" value="0.21" />
         <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/score_bottom_sheet.xml" value="0.171875" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/score_list_item.xml" value="0.2" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/start_game.xml" value="0.19" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/start_games.xml" value="0.1703125" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/start_gameto.xml" value="0.1703125" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/startgames.xml" value="0.1703125" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/startogameh.xml" value="0.1703125" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/layout/time_out_dialog.xml" value="0.21" />
+        <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/menu/drawermenu.xml" value="0.15989583333333332" />
         <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.15520833333333334" />
         <entry key="..\:/Users/John Elli/AndroidStudioProjects/KIDSLEARNING/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
       </map>

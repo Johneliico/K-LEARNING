@@ -1,86 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/sum"
+    android:background="@drawable/lan"
     tools:context=".choices">
 
-    <ImageView
-        android:id="@+id/imageView2"
-        android:layout_width="470dp"
-        android:layout_height="165dp"
-        android:background="@drawable/kler"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.779"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.0" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:orientation="vertical">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="?actionBarSize">
+            <ImageButton
+                android:id="@+id/imageButton7"
+                android:layout_width="47dp"
+                android:layout_height="40dp"
+                android:background="@drawable/pest"
+                android:padding="5dp"
+                android:layout_centerVertical="true"/>
 
-    <TextView
-        android:id="@+id/textView4"
-        android:layout_width="319dp"
-        android:layout_height="33dp"
-        android:fontFamily="@font/coiny"
-        android:gravity="center"
-        android:text="LEARNING APPS FOR KIDS"
-        android:textColor="#0000ff"
-        android:textSize="20dp"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.51"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/imageView2"
-        app:layout_constraintVertical_bias="0.345" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:fontFamily="@font/candal"
+                android:layout_marginLeft="32dp"
+                android:padding="10dp"
+                android:text="APPS LEARNING"
+                android:textAlignment="center"
+                android:textColor="#ffff"
+                android:textSize="28dp" />
 
-    <Button
-        android:id="@+id/button5"
-        android:layout_width="335dp"
-        android:layout_height="87dp"
-        android:background="@drawable/buts"
-        android:fontFamily="@font/slackey"
-        android:text="MATH FOR KIDS"
-        android:onClick="math"
-        android:textColor="#1a8cff"
-        android:textSize="25dp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.4" />
+        </RelativeLayout>
+        <ImageView
+            android:layout_width="230dp"
+            android:layout_height="50dp"
+            android:layout_marginHorizontal="10dp"
+            android:background="@drawable/kate"
+            android:layout_marginBottom="10dp"/>
+        <ImageButton
+            android:id="@+id/imageButton"
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:layout_marginBottom="8dp"
+            android:background="@drawable/maht"/>
+        <ImageButton
+            android:id="@+id/imageButton2"
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:layout_marginBottom="8dp"
+            android:background="@drawable/sayad"/>
+        <ImageButton
+            android:id="@+id/imageButton3"
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:layout_marginBottom="8dp"
+            android:background="@drawable/englo"/>
+        <ImageButton
+            android:id="@+id/imageButton4"
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:layout_marginBottom="8dp"
+            android:background="@drawable/qwer"/>
+        <ImageButton
+            android:id="@+id/imageButton5"
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:layout_marginBottom="8dp"
+            android:background="@drawable/dictionary"/>
+        <ImageButton
+            android:id="@+id/imageButton6"
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:layout_marginBottom="8dp"
+            android:background="@drawable/sckol"/>
+        <ImageButton
+            android:id="@+id/imageButton8"
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:layout_marginBottom="30dp"
+            android:background="@drawable/propayl"/>
 
-    <Button
-        android:id="@+id/button6"
-        android:layout_width="335dp"
-        android:layout_height="87dp"
-        android:background="@drawable/blue"
-        android:fontFamily="@font/slackey"
-        android:text="SCIENCE FOR KIDS"
-        android:textColor="#ff1a1a"
-        android:onClick="science"
-        android:textSize="23dp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/button5"
-        app:layout_constraintVertical_bias="0.151" />
-
-    <Button
-        android:id="@+id/button7"
-        android:layout_width="335dp"
-        android:layout_height="87dp"
-        android:background="@drawable/green"
-        android:fontFamily="@font/slackey"
-        android:text="K-QUIZZ"
-        android:onClick="quiz"
-        android:textColor="#ffff00"
-        android:textSize="29dp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/button6"
-        app:layout_constraintVertical_bias="0.274" />
+    </LinearLayout>
 
 
-</androidx.constraintlayout.widget.ConstraintLayout>
+
+</ScrollView>

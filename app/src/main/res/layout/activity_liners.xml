@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/leth"
+    tools:context=".liners">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="342dp"
+            android:layout_height="69dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/yellowwe"
+            android:fontFamily="@font/russo_one"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:text="TYPE OF LINES"
+            android:textColor="#0000ff"
+            android:textSize="35dp"/>
+
+        <TextView
+            android:layout_width="273dp"
+            android:layout_height="61dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/gradient"
+            android:fontFamily="@font/russo_one"
+            android:gravity="center"
+            android:text="HORIZONTAL LINE"
+            android:textColor="#ffff"
+            android:textSize="25dp"
+            android:layout_marginBottom="10sp"/>
+
+        <pl.droidsonroids.gif.GifImageView
+            android:layout_width="335dp"
+            android:layout_height="229dp"
+            android:layout_gravity="center"
+            android:background="@drawable/hore" />
+        <TextView
+            android:layout_width="273dp"
+            android:layout_height="61dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/andoks"
+            android:fontFamily="@font/russo_one"
+            android:gravity="center"
+            android:text="VERTICAL LINE"
+            android:textColor="#ffff"
+            android:textSize="25dp"
+            android:layout_marginBottom="10sp"/>
+
+        <pl.droidsonroids.gif.GifImageView
+            android:layout_width="335dp"
+            android:layout_height="229dp"
+            android:layout_gravity="center"
+            android:background="@drawable/verte" />
+        <TextView
+            android:layout_width="273dp"
+            android:layout_height="61dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/yellowwe"
+            android:fontFamily="@font/russo_one"
+            android:gravity="center"
+            android:text="PARALLEL LINE"
+            android:textColor="#0000ff"
+            android:textSize="25dp"
+            android:layout_marginBottom="10sp"/>
+
+        <pl.droidsonroids.gif.GifImageView
+            android:layout_width="335dp"
+            android:layout_height="229dp"
+            android:layout_gravity="center"
+            android:background="@drawable/parale"/>
+        <TextView
+            android:layout_width="273dp"
+            android:layout_height="61dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/valot"
+            android:fontFamily="@font/russo_one"
+            android:gravity="center"
+            android:text="ZIGZAG LINE"
+            android:textColor="#0000ff"
+            android:textSize="25dp"
+            android:layout_marginBottom="10sp"/>
+
+        <pl.droidsonroids.gif.GifImageView
+            android:layout_width="335dp"
+            android:layout_height="229dp"
+            android:layout_gravity="center"
+            android:background="#ffff"
+            android:src="@drawable/zig"/>
+        <TextView
+            android:layout_width="273dp"
+            android:layout_height="61dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/red"
+            android:fontFamily="@font/russo_one"
+            android:gravity="center"
+            android:text="DIAGONAL LINE"
+            android:textColor="#ffff"
+            android:textSize="25dp"
+            android:layout_marginBottom="10sp"/>
+
+        <pl.droidsonroids.gif.GifImageView
+            android:layout_width="335dp"
+            android:layout_height="229dp"
+            android:layout_gravity="center"
+            android:background="@drawable/diag"/>
+        <TextView
+            android:layout_width="273dp"
+            android:layout_height="61dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/blue"
+            android:fontFamily="@font/russo_one"
+            android:gravity="center"
+            android:text="CURVE LINE"
+            android:textColor="#ffff"
+            android:textSize="25dp"
+            android:layout_marginBottom="10sp"/>
+
+        <pl.droidsonroids.gif.GifImageView
+            android:layout_width="335dp"
+            android:layout_height="229dp"
+            android:layout_gravity="center"
+            android:background="@drawable/curve"/>
+        <TextView
+            android:layout_width="273dp"
+            android:layout_height="61dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/gradient"
+            android:fontFamily="@font/russo_one"
+            android:gravity="center"
+            android:text="WAVY LINE"
+            android:textColor="#ffff"
+            android:textSize="25dp"
+            android:layout_marginBottom="10sp"/>
+
+        <pl.droidsonroids.gif.GifImageView
+            android:layout_width="335dp"
+            android:layout_height="229dp"
+            android:layout_gravity="center"
+            android:background="@drawable/wavy"/>
+        <TextView
+            android:layout_width="273dp"
+            android:layout_height="61dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/glene"
+            android:fontFamily="@font/russo_one"
+            android:gravity="center"
+            android:text="SPIRAL LINE"
+            android:textColor="#0000ff"
+            android:textSize="25dp"
+            android:layout_marginBottom="10sp"/>
+
+        <pl.droidsonroids.gif.GifImageView
+            android:layout_width="335dp"
+            android:layout_height="229dp"
+            android:layout_gravity="center"
+            android:background="#ffff"
+            android:src="@drawable/spiral"
+            android:layout_marginBottom="30sp"/>
+
+
+
+
+
+
+    </LinearLayout>
+
+
+
+
+</ScrollView>

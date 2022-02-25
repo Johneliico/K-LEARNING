@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/jhgf"
+    tools:context=".muteplay">
+
+    <TextView
+        android:layout_width="369dp"
+        android:layout_height="120dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="130dp"
+        android:fontFamily="@font/lemon"
+        android:gravity="center"
+        android:text="MULTIPLICATION"
+        android:textColor="#ff4500"
+        android:textSize="33sp" />
+    <Button
+        android:layout_width="306dp"
+        android:layout_height="89dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/andoks"
+        android:gravity="center"
+        android:onClick="ontable"
+        android:text="Multiplication Table"
+        android:textColor="#ffff"
+        android:textSize="20sp"
+        android:textStyle="bold"/>
+    <Button
+        android:layout_width="306dp"
+        android:layout_height="89dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/andoks"
+        android:gravity="center"
+        android:text="Multiplication"
+        android:onClick="mathemul"
+        android:textColor="#ffff"
+        android:textSize="20sp"
+        android:textStyle="bold"/>
+
+</LinearLayout>

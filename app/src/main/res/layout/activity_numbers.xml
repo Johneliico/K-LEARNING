@@ -4,75 +4,168 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/sum"
+    android:background="@drawable/weh"
     tools:context=".numbers">
 
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
+        android:layout_height="wrap_content"
         android:orientation="vertical">
+
         <TextView
-            android:layout_width="match_parent"
+            android:layout_width="342dp"
             android:layout_height="wrap_content"
-            android:text="LEARN TO COUNT 1-10"
-            android:textSize="35sp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/gradient"
+            android:fontFamily="@font/coiny"
             android:gravity="center"
-            android:fontFamily="@font/permanent_marker"
-            android:textColor="#ff1a1a"
-            android:layout_marginTop="20dp"/>
+            android:text="Learn to Count"
+            android:textColor="#ffff"
+            android:textSize="35sp" />
 
-        <ImageView
-            android:layout_width="382dp"
-            android:layout_height="259dp"
-            android:layout_gravity="center"
-            android:src="@drawable/one" />
+        <GridLayout
+            android:layout_width="match_parent"
+            android:layout_height="563dp"
+            android:layout_margin="10sp"
+            android:columnCount="2"
+            android:rowCount="5"
 
-        <ImageView
-            android:layout_width="382dp"
-            android:layout_height="259dp"
-            android:layout_gravity="center"
-            android:src="@drawable/two" />
-        <ImageView
-            android:layout_width="382dp"
-            android:layout_height="259dp"
-            android:layout_gravity="center"
-            android:src="@drawable/three" />
-        <ImageView
-            android:layout_width="382dp"
-            android:layout_height="259dp"
-            android:layout_gravity="center"
-            android:src="@drawable/four" />
-        <ImageView
-            android:layout_width="382dp"
-            android:layout_height="259dp"
-            android:layout_gravity="center"
-            android:src="@drawable/five" />
-        <ImageView
-            android:layout_width="382dp"
-            android:layout_height="259dp"
-            android:layout_gravity="center"
-            android:src="@drawable/six" />
-        <ImageView
-            android:layout_width="382dp"
-            android:layout_height="259dp"
-            android:layout_gravity="center"
-            android:src="@drawable/seven" />
-        <ImageView
-            android:layout_width="382dp"
-            android:layout_height="259dp"
-            android:layout_gravity="center"
-            android:src="@drawable/eight" />
-        <ImageView
-            android:layout_width="382dp"
-            android:layout_height="259dp"
-            android:layout_gravity="center"
-            android:src="@drawable/nine" />
-        <ImageView
-            android:layout_width="382dp"
-            android:layout_height="259dp"
-            android:layout_gravity="center"
-            android:src="@drawable/ten" />
+            >
 
+            <Button
+                android:id="@+id/button11"
+                android:onClick="wantoten"
+                android:layout_rowWeight="1"
+                android:layout_columnWeight="1"
+                android:layout_gravity="fill"
+                android:layout_margin="5sp"
+                android:background="@drawable/blue"
+                android:fontFamily="@font/luckiest_guy"
+                android:text="0-10"
+                android:textColor="#ffff"
+                android:textSize="43dp"
+                tools:ignore="OnClick" />
+
+            <Button
+                android:id="@+id/button2"
+                android:layout_rowWeight="1"
+                android:onClick="twentye"
+                android:layout_columnWeight="1"
+                android:layout_gravity="fill"
+                android:layout_margin="5sp"
+                android:background="@drawable/glene"
+                android:text="11-20"
+                android:textColor="#0039e6"
+                android:fontFamily="@font/luckiest_guy"
+                android:textSize="38sp"
+                tools:ignore="OnClick" />
+
+            <Button
+                android:id="@+id/button3"
+                android:layout_rowWeight="1"
+                android:layout_columnWeight="1"
+                android:onClick="thirtye"
+                android:layout_gravity="fill"
+                android:layout_margin="5sp"
+                android:background="@drawable/valot"
+                android:text="21-30"
+                android:textColor="#ff0000"
+                android:fontFamily="@font/luckiest_guy"
+                android:textSize="38sp" />
+
+            <Button
+                android:id="@+id/button4"
+                android:layout_rowWeight="1"
+                android:layout_columnWeight="1"
+                android:layout_gravity="fill"
+                android:layout_margin="5sp"
+                android:onClick="fourtye"
+                android:background="@drawable/red"
+                android:textColor="#ffff"
+                android:text="31-40"
+                android:fontFamily="@font/luckiest_guy"
+                android:textSize="38sp" />
+
+            <Button
+                android:id="@+id/button5"
+                android:layout_rowWeight="1"
+                android:layout_columnWeight="1"
+                android:layout_gravity="fill"
+                android:onClick="fiftye"
+                android:layout_margin="5sp"
+                android:background="@drawable/yellowwe"
+                android:text="41-50"
+                android:fontFamily="@font/luckiest_guy"
+                android:textSize="38sp" />
+
+            <Button
+                android:id="@+id/button6"
+                android:layout_rowWeight="1"
+                android:layout_columnWeight="1"
+                android:layout_gravity="fill"
+                android:onClick="sistye"
+                android:layout_margin="5sp"
+                android:background="@drawable/valot"
+                android:textColor="#ff0000"
+                android:text="51-60"
+                android:fontFamily="@font/luckiest_guy"
+                android:textSize="38sp" />
+
+            <Button
+                android:id="@+id/button7"
+                android:layout_rowWeight="1"
+                android:layout_columnWeight="1"
+                android:layout_gravity="fill"
+                android:layout_margin="5sp"
+                android:onClick="seventye"
+                android:background="@drawable/blue"
+                android:text="61-70"
+                android:textColor="#ffffcc"
+                android:fontFamily="@font/luckiest_guy"
+                android:textSize="38sp" />
+
+            <Button
+                android:id="@+id/button8"
+                android:layout_rowWeight="1"
+                android:layout_columnWeight="1"
+                android:layout_gravity="fill"
+                android:layout_margin="5sp"
+                android:onClick="eightye"
+                android:background="@drawable/yellowwe"
+                android:text="71-80"
+                android:textColor="#000000"
+                android:fontFamily="@font/luckiest_guy"
+                android:textSize="38sp" />
+
+            <Button
+                android:id="@+id/button9"
+                android:layout_rowWeight="1"
+                android:layout_columnWeight="1"
+                android:layout_gravity="fill"
+                android:layout_margin="5sp"
+                android:background="@drawable/glene"
+                android:text="81-90"
+                android:onClick="ninetye"
+                android:textColor="#0039e6"
+                android:fontFamily="@font/luckiest_guy"
+                android:textSize="38sp" />
+
+            <Button
+                android:id="@+id/button20"
+                android:layout_rowWeight="1"
+                android:layout_columnWeight="1"
+                android:layout_gravity="fill"
+                android:layout_margin="5sp"
+                android:background="@drawable/red"
+                android:textColor="#ffff"
+                android:onClick="onehundredye"
+                android:text="91-100"
+                android:fontFamily="@font/luckiest_guy"
+                android:textSize="34sp" />
+
+
+        </GridLayout>
 
 
     </LinearLayout>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/fepq"
+    android:orientation="vertical"
+    tools:context=".plants">
+
+    <TextView
+        android:layout_width="445dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="120dp"
+        android:fontFamily="@font/slackey"
+        android:gravity="center"
+        android:text="PLANTS"
+        android:textAlignment="center"
+        android:textColor="#006400"
+        android:textSize="70sp" />
+    <ImageButton
+        android:id="@+id/imageButton74"
+        android:layout_width="345dp"
+        android:layout_height="120dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="50dp"
+        android:background="@drawable/tyape" />
+    <ImageButton
+        android:id="@+id/imageButton75"
+        android:layout_width="345dp"
+        android:layout_height="120dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/plansty" />
+
+
+</LinearLayout>

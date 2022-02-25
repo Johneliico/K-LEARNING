@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/xanu"
+    tools:context=".actionverb">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="357dp"
+            android:layout_height="70dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/aktsyonword" />
+
+        <HorizontalScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="5sp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/blue"
+                    android:orientation="vertical">
+                    <pl.droidsonroids.gif.GifImageView
+                        android:layout_width="382dp"
+                        android:layout_height="498dp"
+                        android:layout_gravity="center"
+                        android:layout_marginLeft="6dp"
+                        android:layout_marginTop="10dp"
+                        android:background="@drawable/runnin" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="56dp"
+                        android:gravity="center"
+                        android:text="RUNNING"
+                        android:textSize="37sp"
+                        android:textColor="#ffff"
+                        android:fontFamily="@font/luckiest_guy"
+                        android:layout_marginLeft="6dp"
+                        android:textAlignment="center" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/blue"
+                    android:orientation="vertical">
+                    <pl.droidsonroids.gif.GifImageView
+                        android:layout_width="382dp"
+                        android:layout_height="498dp"
+                        android:layout_gravity="center"
+                        android:layout_marginLeft="6dp"
+                        android:layout_marginTop="10dp"
+                        android:background="@drawable/dancing" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="56dp"
+                        android:gravity="center"
+                        android:text="DANCING"
+                        android:textSize="37sp"
+                        android:textColor="#ffff"
+                        android:fontFamily="@font/luckiest_guy"
+                        android:layout_marginLeft="6dp"
+                        android:textAlignment="center" />
+
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/blue"
+                    android:orientation="vertical">
+                    <pl.droidsonroids.gif.GifImageView
+                        android:layout_width="382dp"
+                        android:layout_height="498dp"
+                        android:layout_gravity="center"
+                        android:layout_marginLeft="6dp"
+                        android:layout_marginTop="10dp"
+                        android:background="@drawable/walkeng" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="56dp"
+                        android:gravity="center"
+                        android:text="WALKING"
+                        android:textSize="37sp"
+                        android:textColor="#ffff"
+                        android:fontFamily="@font/luckiest_guy"
+                        android:layout_marginLeft="6dp"
+                        android:textAlignment="center" />
+
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/blue"
+                    android:orientation="vertical">
+                    <pl.droidsonroids.gif.GifImageView
+                        android:layout_width="382dp"
+                        android:layout_height="498dp"
+                        android:layout_gravity="center"
+                        android:layout_marginLeft="6dp"
+                        android:layout_marginTop="10dp"
+                        android:background="@drawable/jumping" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="56dp"
+                        android:gravity="center"
+                        android:text="JUMPING"
+                        android:textSize="37sp"
+                        android:textColor="#ffff"
+                        android:fontFamily="@font/luckiest_guy"
+                        android:layout_marginLeft="6dp"
+                        android:textAlignment="center" />
+
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/blue"
+                    android:orientation="vertical">
+                    <pl.droidsonroids.gif.GifImageView
+                        android:layout_width="382dp"
+                        android:layout_height="498dp"
+                        android:layout_gravity="center"
+                        android:layout_marginLeft="6dp"
+                        android:layout_marginTop="10dp"
+                        android:background="@drawable/riding" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="56dp"
+                        android:gravity="center"
+                        android:text="RIDING"
+                        android:textSize="37sp"
+                        android:textColor="#ffff"
+                        android:fontFamily="@font/luckiest_guy"
+                        android:layout_marginLeft="6dp"
+                        android:textAlignment="center" />
+
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/blue"
+                    android:orientation="vertical">
+                    <pl.droidsonroids.gif.GifImageView
+                        android:layout_width="382dp"
+                        android:layout_height="498dp"
+                        android:layout_gravity="center"
+                        android:layout_marginLeft="6dp"
+                        android:layout_marginTop="10dp"
+                        android:background="@drawable/singing" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="56dp"
+                        android:gravity="center"
+                        android:text="SINGING"
+                        android:textSize="37sp"
+                        android:textColor="#ffff"
+                        android:fontFamily="@font/luckiest_guy"
+                        android:layout_marginLeft="6dp"
+                        android:textAlignment="center" />
+
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/blue"
+                    android:orientation="vertical">
+                    <pl.droidsonroids.gif.GifImageView
+                        android:layout_width="378dp"
+                        android:layout_height="498dp"
+                        android:layout_gravity="center"
+                        android:layout_marginLeft="6dp"
+                        android:layout_marginTop="10dp"
+                        android:background="@drawable/eating" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="56dp"
+                        android:gravity="center"
+                        android:text="EATING"
+                        android:textSize="37sp"
+                        android:textColor="#ffff"
+                        android:fontFamily="@font/luckiest_guy"
+                        android:layout_marginLeft="6dp"
+                        android:textAlignment="center" />
+
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/blue"
+                    android:orientation="vertical">
+                    <pl.droidsonroids.gif.GifImageView
+                        android:layout_width="382dp"
+                        android:layout_height="498dp"
+                        android:layout_gravity="center"
+                        android:layout_marginLeft="6dp"
+                        android:layout_marginTop="10dp"
+                        android:background="@drawable/punching" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="56dp"
+                        android:gravity="center"
+                        android:text="PUNCHING"
+                        android:textSize="37sp"
+                        android:textColor="#ffff"
+                        android:fontFamily="@font/luckiest_guy"
+                        android:layout_marginLeft="6dp"
+                        android:textAlignment="center" />
+
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/blue"
+                    android:orientation="vertical">
+                    <pl.droidsonroids.gif.GifImageView
+                        android:layout_width="382dp"
+                        android:layout_height="498dp"
+                        android:layout_gravity="center"
+                        android:layout_marginLeft="6dp"
+                        android:layout_marginTop="10dp"
+                        android:background="@drawable/swem" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="56dp"
+                        android:gravity="center"
+                        android:text="SWIMMING"
+                        android:textSize="37sp"
+                        android:textColor="#ffff"
+                        android:fontFamily="@font/luckiest_guy"
+                        android:layout_marginLeft="6dp"
+                        android:textAlignment="center" />
+
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/blue"
+                    android:orientation="vertical">
+                    <pl.droidsonroids.gif.GifImageView
+                        android:layout_width="382dp"
+                        android:layout_height="498dp"
+                        android:layout_gravity="center"
+                        android:layout_marginLeft="6dp"
+                        android:layout_marginTop="10dp"
+                        android:background="@drawable/playinge" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="56dp"
+                        android:gravity="center"
+                        android:text="PLAYING"
+                        android:textSize="37sp"
+                        android:textColor="#ffff"
+                        android:fontFamily="@font/luckiest_guy"
+                        android:layout_marginLeft="6dp"
+                        android:textAlignment="center" />
+
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/blue"
+                    android:orientation="vertical">
+                    <pl.droidsonroids.gif.GifImageView
+                        android:layout_width="382dp"
+                        android:layout_height="498dp"
+                        android:layout_gravity="center"
+                        android:layout_marginLeft="6dp"
+                        android:layout_marginTop="10dp"
+                        android:background="@drawable/laughinge" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="56dp"
+                        android:gravity="center"
+                        android:text="LAUGHING"
+                        android:textSize="37sp"
+                        android:textColor="#ffff"
+                        android:fontFamily="@font/luckiest_guy"
+                        android:layout_marginLeft="6dp"
+                        android:textAlignment="center" />
+
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/blue"
+                    android:orientation="vertical">
+                    <pl.droidsonroids.gif.GifImageView
+                        android:layout_width="382dp"
+                        android:layout_height="488dp"
+                        android:layout_gravity="center"
+                        android:layout_marginLeft="6dp"
+                        android:layout_marginTop="10dp"
+                        android:background="@drawable/cookinger" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="56dp"
+                        android:gravity="center"
+                        android:text="COOKING"
+                        android:textSize="37sp"
+                        android:textColor="#ffff"
+                        android:fontFamily="@font/luckiest_guy"
+                        android:layout_marginLeft="6dp"
+                        android:textAlignment="center" />
+
+                </LinearLayout>
+
+
+            </LinearLayout>
+
+
+
+        </HorizontalScrollView>
+
+
+    </LinearLayout>
+
+</LinearLayout>

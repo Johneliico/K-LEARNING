@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/lan"
+    tools:context=".enlish">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="10dp"
+        android:orientation="vertical">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ImageButton
+                android:id="@+id/imageButton24"
+                android:layout_width="47dp"
+                android:layout_height="40dp"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentBottom="true"
+                android:layout_marginStart="15dp"
+                android:layout_marginBottom="10dp"
+                android:background="@drawable/pest"
+                android:padding="5dp" />
+
+            <ImageView
+                android:layout_width="245dp"
+                android:layout_height="64dp"
+                android:layout_alignParentEnd="true"
+                android:layout_marginStart="21dp"
+                android:layout_marginEnd="60dp"
+                android:layout_toEndOf="@+id/imageButton24"
+                android:background="@drawable/dio"
+                android:fontFamily="@font/candal"
+                android:padding="13dp" />
+        </RelativeLayout>
+
+        <GridLayout
+            android:layout_width="348dp"
+            android:layout_height="432dp"
+            android:layout_gravity="center"
+            android:layout_marginStart="10sp"
+            android:layout_marginTop="10sp"
+            android:layout_marginEnd="10sp"
+            android:layout_marginBottom="10sp"
+            android:columnCount="2"
+            android:rowCount="5">
+
+            <ImageButton
+                android:id="@+id/imageButton25"
+                android:layout_width="134dp"
+                android:layout_height="45dp"
+                android:layout_rowWeight="1"
+                android:layout_columnWeight="1"
+                android:layout_gravity="fill"
+                android:layout_margin="5sp"
+                android:background="@drawable/alpabets" />
+
+            <ImageButton
+                android:id="@+id/imageButton26"
+                android:layout_width="124dp"
+                android:layout_height="45dp"
+                android:layout_rowWeight="1"
+                android:layout_columnWeight="1"
+                android:layout_gravity="fill"
+                android:layout_margin="5sp"
+                android:background="@drawable/nurel" />
+
+            <ImageButton
+                android:id="@+id/imageButton27"
+                android:layout_width="134dp"
+                android:layout_height="45dp"
+                android:layout_rowWeight="1"
+                android:layout_columnWeight="1"
+                android:layout_gravity="fill"
+                android:layout_margin="5sp"
+                android:background="@drawable/shirt" />
+
+            <ImageButton
+                android:id="@+id/imageButton28"
+                android:layout_width="134dp"
+                android:layout_height="45dp"
+                android:layout_rowWeight="1"
+                android:layout_columnWeight="1"
+                android:layout_gravity="fill"
+                android:layout_margin="5sp"
+                android:background="@drawable/berb" />
+
+
+        </GridLayout>
+    </LinearLayout>
+
+
+</ScrollView>
